@@ -25,7 +25,28 @@ EMBEDDINGS_INDEX = EMBEDDINGS_DIR / "index.json"
 GRAPH_DIR = OUTPUT_DIR / "graph"
 EDGES_FILE = GRAPH_DIR / "edges.json"
 NEIGHBORS_FILE = GRAPH_DIR / "neighbors.json"
+COMBINED_EDGES_FILE = GRAPH_DIR / "combined_edges.json"
+RELATED_NEIGHBORS_FILE = GRAPH_DIR / "related_neighbors.json"
+ENTITY_INDEX_FILE = GRAPH_DIR / "entity_index.json"
+STEP4_SUMMARY_FILE = GRAPH_DIR / "step4_summary.json"
 GRAPH_HTML = OUTPUT_DIR / "graph.html"
+
+
+# Base rule-edge weights, before IDF normalization. These are the *ceiling*
+# for each rule type; the actual emitted weight is `base * idf(group_size)`.
+# `audience` and `document_type` were intentionally excluded for v1 (too
+# noisy on this corpus).
+RULE_BASE_WEIGHTS: dict[str, float] = {
+    "customers": 1.0,
+    "partners": 0.9,
+    "erps": 0.8,
+    "competitors": 0.7,
+    "products": 0.7,
+    "policies": 0.6,
+    "people": 0.5,
+    "features": 0.4,
+    "business_area": 0.3,
+}
 
 
 console = Console()

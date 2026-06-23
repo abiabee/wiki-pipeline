@@ -1,0 +1,574 @@
+{
+  "generated_at": "2026-06-23T16:57:16+00:00",
+  "leaves": {
+    "participating": 85,
+    "embeddable": 85,
+    "skipped_with_entities": 0,
+    "skipped_dropped_empty": []
+  },
+  "params": {
+    "top_k": 10,
+    "min_rule_weight": 0.05,
+    "include_skipped_with_entities": false,
+    "combination": "saturating: 1 - (1-sim) * Π (1-w_i)",
+    "idf_formula": "log(N / group_size) / log(N)",
+    "rule_base_weights": {
+      "customers": 1.0,
+      "partners": 0.9,
+      "erps": 0.8,
+      "competitors": 0.7,
+      "products": 0.7,
+      "policies": 0.6,
+      "people": 0.5,
+      "features": 0.4,
+      "business_area": 0.3
+    }
+  },
+  "edge_counts": {
+    "similarity": 509,
+    "rule_total": 1676,
+    "rule_by_type": {
+      "shared_business_area": 711,
+      "shared_customer": 39,
+      "shared_product": 142,
+      "shared_feature": 184,
+      "shared_person": 49,
+      "shared_partner": 65,
+      "shared_policy": 1,
+      "shared_erp": 472,
+      "shared_competitor": 13
+    },
+    "rule_skipped_low_weight": 1176,
+    "combined_pairs": 1251,
+    "rescued_pairs": 742
+  },
+  "entity_specificity": {
+    "business_area": {
+      "groups_with_pairs": 17,
+      "min_group": 2,
+      "median_group": 5,
+      "max_group": 49,
+      "total_unique_values": 19
+    },
+    "competitors": {
+      "groups_with_pairs": 4,
+      "min_group": 2,
+      "median_group": 2,
+      "max_group": 5,
+      "total_unique_values": 10
+    },
+    "customers": {
+      "groups_with_pairs": 12,
+      "min_group": 2,
+      "median_group": 2,
+      "max_group": 5,
+      "total_unique_values": 123
+    },
+    "erps": {
+      "groups_with_pairs": 11,
+      "min_group": 2,
+      "median_group": 5,
+      "max_group": 22,
+      "total_unique_values": 26
+    },
+    "features": {
+      "groups_with_pairs": 53,
+      "min_group": 2,
+      "median_group": 2,
+      "max_group": 9,
+      "total_unique_values": 225
+    },
+    "partners": {
+      "groups_with_pairs": 31,
+      "min_group": 2,
+      "median_group": 2,
+      "max_group": 5,
+      "total_unique_values": 112
+    },
+    "people": {
+      "groups_with_pairs": 24,
+      "min_group": 2,
+      "median_group": 2,
+      "max_group": 5,
+      "total_unique_values": 99
+    },
+    "policies": {
+      "groups_with_pairs": 1,
+      "min_group": 2,
+      "median_group": 2,
+      "max_group": 2,
+      "total_unique_values": 33
+    },
+    "products": {
+      "groups_with_pairs": 14,
+      "min_group": 2,
+      "median_group": 3,
+      "max_group": 11,
+      "total_unique_values": 82
+    }
+  },
+  "potential_alias_collisions": [
+    {
+      "entity_type": "business_area",
+      "slug": "channel",
+      "label_variants": [
+        {
+          "label": "channel",
+          "count": 13
+        },
+        {
+          "label": "Channel",
+          "count": 5
+        }
+      ],
+      "leaf_count": 18
+    },
+    {
+      "entity_type": "business_area",
+      "slug": "compliance",
+      "label_variants": [
+        {
+          "label": "Compliance",
+          "count": 4
+        },
+        {
+          "label": "compliance",
+          "count": 2
+        }
+      ],
+      "leaf_count": 6
+    },
+    {
+      "entity_type": "business_area",
+      "slug": "customer-success",
+      "label_variants": [
+        {
+          "label": "customer-success",
+          "count": 1
+        },
+        {
+          "label": "customer_success",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "business_area",
+      "slug": "engineering",
+      "label_variants": [
+        {
+          "label": "engineering",
+          "count": 9
+        },
+        {
+          "label": "Engineering",
+          "count": 4
+        }
+      ],
+      "leaf_count": 13
+    },
+    {
+      "entity_type": "business_area",
+      "slug": "hr",
+      "label_variants": [
+        {
+          "label": "HR",
+          "count": 2
+        },
+        {
+          "label": "hr",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "business_area",
+      "slug": "integrations",
+      "label_variants": [
+        {
+          "label": "integrations",
+          "count": 3
+        },
+        {
+          "label": "Integrations",
+          "count": 2
+        }
+      ],
+      "leaf_count": 5
+    },
+    {
+      "entity_type": "business_area",
+      "slug": "legal",
+      "label_variants": [
+        {
+          "label": "legal",
+          "count": 2
+        },
+        {
+          "label": "Legal",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "business_area",
+      "slug": "marketing",
+      "label_variants": [
+        {
+          "label": "marketing",
+          "count": 10
+        },
+        {
+          "label": "Marketing",
+          "count": 3
+        }
+      ],
+      "leaf_count": 13
+    },
+    {
+      "entity_type": "business_area",
+      "slug": "product",
+      "label_variants": [
+        {
+          "label": "product",
+          "count": 16
+        },
+        {
+          "label": "Product",
+          "count": 9
+        }
+      ],
+      "leaf_count": 25
+    },
+    {
+      "entity_type": "business_area",
+      "slug": "sales",
+      "label_variants": [
+        {
+          "label": "sales",
+          "count": 34
+        },
+        {
+          "label": "Sales",
+          "count": 15
+        }
+      ],
+      "leaf_count": 49
+    },
+    {
+      "entity_type": "features",
+      "slug": "auto-cash-application",
+      "label_variants": [
+        {
+          "label": "Auto Cash Application",
+          "count": 1
+        },
+        {
+          "label": "auto cash application",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "automated-reconciliation",
+      "label_variants": [
+        {
+          "label": "Automated reconciliation",
+          "count": 3
+        },
+        {
+          "label": "automated reconciliation",
+          "count": 1
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "features",
+      "slug": "autopay",
+      "label_variants": [
+        {
+          "label": "autopay",
+          "count": 6
+        },
+        {
+          "label": "Autopay",
+          "count": 2
+        },
+        {
+          "label": "AutoPay",
+          "count": 1
+        }
+      ],
+      "leaf_count": 9
+    },
+    {
+      "entity_type": "features",
+      "slug": "collections-management",
+      "label_variants": [
+        {
+          "label": "Collections Management",
+          "count": 1
+        },
+        {
+          "label": "collections management",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "collections-plans",
+      "label_variants": [
+        {
+          "label": "Collections Plans",
+          "count": 1
+        },
+        {
+          "label": "collections plans",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "convenience-fees",
+      "label_variants": [
+        {
+          "label": "convenience fees",
+          "count": 3
+        },
+        {
+          "label": "Convenience Fees",
+          "count": 1
+        },
+        {
+          "label": "Convenience fees",
+          "count": 1
+        }
+      ],
+      "leaf_count": 5
+    },
+    {
+      "entity_type": "features",
+      "slug": "custom-css",
+      "label_variants": [
+        {
+          "label": "custom CSS",
+          "count": 1
+        },
+        {
+          "label": "Custom CSS",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "email-branding",
+      "label_variants": [
+        {
+          "label": "email branding",
+          "count": 1
+        },
+        {
+          "label": "Email Branding",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "fund-on-file",
+      "label_variants": [
+        {
+          "label": "Fund on File",
+          "count": 1
+        },
+        {
+          "label": "fund on file",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "one-click-checkout",
+      "label_variants": [
+        {
+          "label": "one-click checkout",
+          "count": 1
+        },
+        {
+          "label": "One-click Checkout",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "partial-payments",
+      "label_variants": [
+        {
+          "label": "partial payments",
+          "count": 3
+        },
+        {
+          "label": "Partial Payments",
+          "count": 1
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "features",
+      "slug": "pay-now-links",
+      "label_variants": [
+        {
+          "label": "pay-now links",
+          "count": 2
+        },
+        {
+          "label": "Pay Now links",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "features",
+      "slug": "payment-links",
+      "label_variants": [
+        {
+          "label": "payment links",
+          "count": 1
+        },
+        {
+          "label": "Payment links",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "scheduled-payments",
+      "label_variants": [
+        {
+          "label": "scheduled payments",
+          "count": 2
+        },
+        {
+          "label": "Scheduled payments",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "features",
+      "slug": "tokenization",
+      "label_variants": [
+        {
+          "label": "Tokenization",
+          "count": 1
+        },
+        {
+          "label": "tokenization",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "virtual-terminal",
+      "label_variants": [
+        {
+          "label": "virtual terminal",
+          "count": 5
+        },
+        {
+          "label": "Virtual Terminal",
+          "count": 3
+        },
+        {
+          "label": "Virtual terminal",
+          "count": 1
+        }
+      ],
+      "leaf_count": 9
+    },
+    {
+      "entity_type": "people",
+      "slug": "victor-meza",
+      "label_variants": [
+        {
+          "label": "Victor Meza",
+          "count": 2
+        },
+        {
+          "label": "Víctor Meza",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "products",
+      "slug": "paystand-api",
+      "label_variants": [
+        {
+          "label": "Paystand API",
+          "count": 5
+        },
+        {
+          "label": "PayStand API",
+          "count": 1
+        }
+      ],
+      "leaf_count": 6
+    },
+    {
+      "entity_type": "products",
+      "slug": "paystand-payment-processing",
+      "label_variants": [
+        {
+          "label": "Paystand payment processing",
+          "count": 2
+        },
+        {
+          "label": "Paystand Payment Processing",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "products",
+      "slug": "smart-lockbox",
+      "label_variants": [
+        {
+          "label": "Smart Lockbox",
+          "count": 2
+        },
+        {
+          "label": "SMART Lockbox",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    }
+  ]
+}
