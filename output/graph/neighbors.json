@@ -1,0 +1,4261 @@
+{
+  "generated_at": "2026-06-23T05:14:42+00:00",
+  "params": {
+    "metric": "cosine",
+    "top_k": 8,
+    "min_score": 0.55,
+    "mutual_only": false
+  },
+  "neighbors": {
+    "file-0Bx_ZBVFyKEzmUzNzeFpvTHVaNEhBWjRzYzFQNUtTNFF3aFM4": [
+      {
+        "leaf_id": "file-18svTApTmRiSstFbfp2yoM_VA5kRnhtHY",
+        "title": "Authentication and Identification Procedures 2026",
+        "score": 0.6709,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-107TpZdCgtQb5QJmBXrNlmVmvy6Ouj5CU",
+        "title": "Confidential Data & Media Policy 2026",
+        "score": 0.6669,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9",
+        "title": "Development Methodology 2025",
+        "score": 0.6612,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-11mC1GDuiSOBwtLsUx894DT9S4xZVTj3p",
+        "title": "Change and Tamper-Detection Policy 2025",
+        "score": 0.6368,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-16DKXom4QALncciJwTv7_wHAUWNvfuqKl",
+        "title": "AWS Security Groups Configuration Guidelines 2025",
+        "score": 0.627,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1DRjIEx89LLbZa2J1ORNk25-ckBq0iHPCpgKODgEN-os",
+        "title": "Dispute Process",
+        "score": 0.6033,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1kyHuFINwHuKhHmLTEc8powfVaxugVutY7k5NgQj_ZnM",
+        "title": "Culture Handbook 2025",
+        "score": 0.5999,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV",
+        "title": "Paystand Acceptable Use & Password Policy 2026",
+        "score": 0.593,
+        "rank": 8
+      }
+    ],
+    "file-1-Ny7VdVnI1U3uRr3CIdBLScNgrz4mf2uHhgesSK_Wjw": [
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.8167,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.7493,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7385,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.7308,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.724,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.7188,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.7169,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4",
+        "title": "Direct / Click to Pay",
+        "score": 0.7078,
+        "rank": 8
+      }
+    ],
+    "file-1-rWX1X38a-ZK8HNfSnJVb5L2DQ7kavuLBLtMv4OX0BE": [
+      {
+        "leaf_id": "file-1DRjIEx89LLbZa2J1ORNk25-ckBq0iHPCpgKODgEN-os",
+        "title": "Dispute Process",
+        "score": 0.7275,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1fc1w3rDTOVY7MiTzeMU7ZoYFergnbWNbs1kFgwYyOns",
+        "title": "Billing Questions for Solutions & CS",
+        "score": 0.723,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7116,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Doc version)",
+        "score": 0.6866,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.6839,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.6814,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1DvzSHmC3DkKnMNyfi0TQ67WDyjlfuYwScxLGJfepw3E",
+        "title": "Enevo: March 2020 Processing Fees",
+        "score": 0.6751,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.6746,
+        "rank": 8
+      }
+    ],
+    "file-107TpZdCgtQb5QJmBXrNlmVmvy6Ouj5CU": [
+      {
+        "leaf_id": "file-11mC1GDuiSOBwtLsUx894DT9S4xZVTj3p",
+        "title": "Change and Tamper-Detection Policy 2025",
+        "score": 0.7497,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1826LNEq9xLzOaIzoqpHogAblxwlziVN8",
+        "title": "Paystand Access Control Policy 2026",
+        "score": 0.7395,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV",
+        "title": "Paystand Acceptable Use & Password Policy 2026",
+        "score": 0.7323,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-18svTApTmRiSstFbfp2yoM_VA5kRnhtHY",
+        "title": "Authentication and Identification Procedures 2026",
+        "score": 0.7097,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9",
+        "title": "Development Methodology 2025",
+        "score": 0.6843,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-16DKXom4QALncciJwTv7_wHAUWNvfuqKl",
+        "title": "AWS Security Groups Configuration Guidelines 2025",
+        "score": 0.6754,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-0Bx_ZBVFyKEzmUzNzeFpvTHVaNEhBWjRzYzFQNUtTNFF3aFM4",
+        "title": "CSTPA Scoping Document",
+        "score": 0.6669,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1kyHuFINwHuKhHmLTEc8powfVaxugVutY7k5NgQj_ZnM",
+        "title": "Culture Handbook 2025",
+        "score": 0.6618,
+        "rank": 8
+      }
+    ],
+    "file-10vqmmwumRGHwEoX7w4rkpdRUvmHXwVCIIsH8iub4Rgw": [
+      {
+        "leaf_id": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c",
+        "title": "AblePay Integration Tracking Spreadsheet",
+        "score": 0.8106,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1ZvcVqubawO8QP4q_OvFU2tYb6IXCzZOUTrTft5R3TiI",
+        "title": "CrowdForce Integration (formerly SportsPay)",
+        "score": 0.7817,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1WrmKZH0eKG7xgKz89WBUis7y8HZmw_sjnkJsEXkGNpQ",
+        "title": "Cocoa Productions Integration",
+        "score": 0.7658,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4",
+        "title": "Direct / Click to Pay",
+        "score": 0.7471,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1DRjIEx89LLbZa2J1ORNk25-ckBq0iHPCpgKODgEN-os",
+        "title": "Dispute Process",
+        "score": 0.7318,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.7313,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.7309,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7232,
+        "rank": 8
+      }
+    ],
+    "file-11R9bMAnwACt0maMQpbrXyTTUb8O2wFp-JPPHmewi-X0": [
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.7343,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7186,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7122,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1Yz4fpL6fy6mBV2jH6cLykaYmwxzZaw33MjV2Epd4_wk",
+        "title": "Conservis - Sage Win Wire",
+        "score": 0.7111,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7048,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1HGs8EblAB9Ik-BKPc5TNh6BIacPWA0L3YDERzLbK68o",
+        "title": "Copy for genspark - Paystand Sage Demo Deck",
+        "score": 0.7021,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw",
+        "title": "Direct Webinar Marketing Emails",
+        "score": 0.6965,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.6874,
+        "rank": 8
+      }
+    ],
+    "file-11mC1GDuiSOBwtLsUx894DT9S4xZVTj3p": [
+      {
+        "leaf_id": "file-1826LNEq9xLzOaIzoqpHogAblxwlziVN8",
+        "title": "Paystand Access Control Policy 2026",
+        "score": 0.7848,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-18svTApTmRiSstFbfp2yoM_VA5kRnhtHY",
+        "title": "Authentication and Identification Procedures 2026",
+        "score": 0.7679,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-107TpZdCgtQb5QJmBXrNlmVmvy6Ouj5CU",
+        "title": "Confidential Data & Media Policy 2026",
+        "score": 0.7497,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9",
+        "title": "Development Methodology 2025",
+        "score": 0.7424,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-16DKXom4QALncciJwTv7_wHAUWNvfuqKl",
+        "title": "AWS Security Groups Configuration Guidelines 2025",
+        "score": 0.7297,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV",
+        "title": "Paystand Acceptable Use & Password Policy 2026",
+        "score": 0.7247,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.6649,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1CxQCKgbOEWcXuvOpmqrfvgjAyQiT0kxvww8rtlCp3u8",
+        "title": "Buyer Personas - copy",
+        "score": 0.6634,
+        "rank": 8
+      }
+    ],
+    "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq": [
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.8967,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv",
+        "title": "CAD EFT Product Battlecard",
+        "score": 0.8688,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+        "title": "DWSi BC One Pager",
+        "score": 0.8329,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.8198,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1rCQBa9qKb1PYmJbEmmb52nFNDrIKZ2uT",
+        "title": "BC ICP Vertical - Paystand A/R Ideal Customer Profile for Business Central",
+        "score": 0.8178,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.8112,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.805,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7733,
+        "rank": 8
+      }
+    ],
+    "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8": [
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.8143,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.8112,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.7725,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1HGs8EblAB9Ik-BKPc5TNh6BIacPWA0L3YDERzLbK68o",
+        "title": "Copy for genspark - Paystand Sage Demo Deck",
+        "score": 0.7715,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.7683,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7586,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7464,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1EqtElt5XDOSK0e26pxM5kCmAvmtZUk9GDyiOlSnjBT8",
+        "title": "CARO | Paystand Network Adoption and Results",
+        "score": 0.7456,
+        "rank": 8
+      }
+    ],
+    "file-13JsSaxFeLDpWue1cqc1P-YuxggVT1iXwpkLjiJdptSA": [
+      {
+        "leaf_id": "file-1neiqe9B9l2UQ7TWIQy_feTAcT41kxsf21RBpmBmPVoc",
+        "title": "Customers and Payment Interface",
+        "score": 0.7156,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.7095,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7057,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.7027,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.6958,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1FDG-sMVYucfvmNwtqOjk0_GNOWMJNIj6M5YjAQ0n59k",
+        "title": "BigBattery - ValuePrompter",
+        "score": 0.6908,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4",
+        "title": "Direct / Click to Pay",
+        "score": 0.6844,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.6798,
+        "rank": 8
+      }
+    ],
+    "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M": [
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.8198,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1rCQBa9qKb1PYmJbEmmb52nFNDrIKZ2uT",
+        "title": "BC ICP Vertical - Paystand A/R Ideal Customer Profile for Business Central",
+        "score": 0.7948,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7746,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7704,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7699,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1EqtElt5XDOSK0e26pxM5kCmAvmtZUk9GDyiOlSnjBT8",
+        "title": "CARO | Paystand Network Adoption and Results",
+        "score": 0.7695,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.7683,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+        "title": "DWSi BC One Pager",
+        "score": 0.7671,
+        "rank": 8
+      }
+    ],
+    "file-13a-1_XKEHLewbkdXwD0QveK-X3sX5GYr": [
+      {
+        "leaf_id": "file-161Eh-NCdxjWNXCFHggfgmaAzpjdxrzyV",
+        "title": "Completed 2017 SDN Membership Initial",
+        "score": 0.9383,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.697,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.6744,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV",
+        "title": "Paystand Acceptable Use & Password Policy 2026",
+        "score": 0.6719,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.6678,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.6629,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.6616,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8",
+        "title": "Channels Priorities",
+        "score": 0.6593,
+        "rank": 8
+      }
+    ],
+    "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ": [
+      {
+        "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+        "title": "DWSi BC One Pager",
+        "score": 0.8247,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.8025,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.798,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.7942,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7935,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS",
+        "title": "Acumatica ICP Vertical - Ideal Customer Profile",
+        "score": 0.7891,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.7826,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7826,
+        "rank": 8
+      }
+    ],
+    "file-161Eh-NCdxjWNXCFHggfgmaAzpjdxrzyV": [
+      {
+        "leaf_id": "file-13a-1_XKEHLewbkdXwD0QveK-X3sX5GYr",
+        "title": "Completed 2018 SDN Membership Renewal",
+        "score": 0.9383,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.7289,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.6782,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.6755,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.6753,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+        "title": "Business Fitness-Paystand Account Planning",
+        "score": 0.6738,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.6731,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8",
+        "title": "Channels Priorities",
+        "score": 0.6714,
+        "rank": 8
+      }
+    ],
+    "file-16DKXom4QALncciJwTv7_wHAUWNvfuqKl": [
+      {
+        "leaf_id": "file-18svTApTmRiSstFbfp2yoM_VA5kRnhtHY",
+        "title": "Authentication and Identification Procedures 2026",
+        "score": 0.7682,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV",
+        "title": "Paystand Acceptable Use & Password Policy 2026",
+        "score": 0.733,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-11mC1GDuiSOBwtLsUx894DT9S4xZVTj3p",
+        "title": "Change and Tamper-Detection Policy 2025",
+        "score": 0.7297,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1826LNEq9xLzOaIzoqpHogAblxwlziVN8",
+        "title": "Paystand Access Control Policy 2026",
+        "score": 0.727,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9",
+        "title": "Development Methodology 2025",
+        "score": 0.6872,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-107TpZdCgtQb5QJmBXrNlmVmvy6Ouj5CU",
+        "title": "Confidential Data & Media Policy 2026",
+        "score": 0.6754,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-11R9bMAnwACt0maMQpbrXyTTUb8O2wFp-JPPHmewi-X0",
+        "title": "Sage Intacct Settings and Details - Customer Response Form",
+        "score": 0.6463,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+        "title": "Business Fitness-Paystand Account Planning",
+        "score": 0.6413,
+        "rank": 8
+      }
+    ],
+    "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto": [
+      {
+        "leaf_id": "file-1lJiIcBN0mVw_3ULmu4V2LUg-AV_1IIJ3OWsEOT-iEp4",
+        "title": "#1-Strategic Partner GTM Plan",
+        "score": 0.8349,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.7805,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1NgNF9EgJ5SZ462HaVgp40YU0L7l-s9AmtQ9CeJM4eks",
+        "title": "#12 - Partner Onboarding Process",
+        "score": 0.752,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1bHAepqceL0baLXDO77IxOiv9NsRtvsLh_UjLZex2my4",
+        "title": "Anderson Frank GTM Plan",
+        "score": 0.7427,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.7382,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU",
+        "title": "Channel's Partner Meetings",
+        "score": 0.737,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1rN12enDgtBXmTROmUW3_-OPdGP4M6uztXCdQ2K3QTH8",
+        "title": "Channel Intacct Partner Meetings - Caam",
+        "score": 0.7231,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7212,
+        "rank": 8
+      }
+    ],
+    "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV": [
+      {
+        "leaf_id": "file-1826LNEq9xLzOaIzoqpHogAblxwlziVN8",
+        "title": "Paystand Access Control Policy 2026",
+        "score": 0.8,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-18svTApTmRiSstFbfp2yoM_VA5kRnhtHY",
+        "title": "Authentication and Identification Procedures 2026",
+        "score": 0.7842,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-16DKXom4QALncciJwTv7_wHAUWNvfuqKl",
+        "title": "AWS Security Groups Configuration Guidelines 2025",
+        "score": 0.733,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-107TpZdCgtQb5QJmBXrNlmVmvy6Ouj5CU",
+        "title": "Confidential Data & Media Policy 2026",
+        "score": 0.7323,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-11mC1GDuiSOBwtLsUx894DT9S4xZVTj3p",
+        "title": "Change and Tamper-Detection Policy 2025",
+        "score": 0.7247,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9",
+        "title": "Development Methodology 2025",
+        "score": 0.6796,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.6747,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.6737,
+        "rank": 8
+      }
+    ],
+    "file-17eVe8kA-aqXw4LCibgFkJhvW9WgDB7OlOLGF5xIkPc8": [
+      {
+        "leaf_id": "file-1Ef7l5RYeEJeNpXBDzdavZMrEpsnGari3zYKjO9vOUwM",
+        "title": "ALOHA Collection Addendum",
+        "score": 0.7389,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.7014,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c",
+        "title": "AblePay Integration Tracking Spreadsheet",
+        "score": 0.6978,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.6899,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.6897,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1y4kTQiYUGtPCF3Pul7HSjBdVHOoADSAs1bd-HHPn_7k",
+        "title": "DataBlend Addendum — Multiple Currencies",
+        "score": 0.6855,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1m4RqcNkHIPtVVDBWB0HniC1FhucYJxJt92f16g9GaUQ",
+        "title": "Early Access Program",
+        "score": 0.6839,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+        "title": "Business Fitness-Paystand Account Planning",
+        "score": 0.6814,
+        "rank": 8
+      }
+    ],
+    "file-1826LNEq9xLzOaIzoqpHogAblxwlziVN8": [
+      {
+        "leaf_id": "file-18svTApTmRiSstFbfp2yoM_VA5kRnhtHY",
+        "title": "Authentication and Identification Procedures 2026",
+        "score": 0.8023,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV",
+        "title": "Paystand Acceptable Use & Password Policy 2026",
+        "score": 0.8,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-11mC1GDuiSOBwtLsUx894DT9S4xZVTj3p",
+        "title": "Change and Tamper-Detection Policy 2025",
+        "score": 0.7848,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-107TpZdCgtQb5QJmBXrNlmVmvy6Ouj5CU",
+        "title": "Confidential Data & Media Policy 2026",
+        "score": 0.7395,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-16DKXom4QALncciJwTv7_wHAUWNvfuqKl",
+        "title": "AWS Security Groups Configuration Guidelines 2025",
+        "score": 0.727,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9",
+        "title": "Development Methodology 2025",
+        "score": 0.7011,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c",
+        "title": "AblePay Integration Tracking Spreadsheet",
+        "score": 0.6699,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1rCQBa9qKb1PYmJbEmmb52nFNDrIKZ2uT",
+        "title": "BC ICP Vertical - Paystand A/R Ideal Customer Profile for Business Central",
+        "score": 0.6658,
+        "rank": 8
+      }
+    ],
+    "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX": [
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.8116,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+        "title": "DWSi BC One Pager",
+        "score": 0.8009,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Doc version)",
+        "score": 0.7982,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7942,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.7857,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1VeJoZOjGe2WxGYmrXDZiw8NRzIbRmZsNwRk5yunk6G0",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Alt)",
+        "score": 0.7835,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1m4RqcNkHIPtVVDBWB0HniC1FhucYJxJt92f16g9GaUQ",
+        "title": "Early Access Program",
+        "score": 0.7462,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7163,
+        "rank": 8
+      }
+    ],
+    "file-18svTApTmRiSstFbfp2yoM_VA5kRnhtHY": [
+      {
+        "leaf_id": "file-1826LNEq9xLzOaIzoqpHogAblxwlziVN8",
+        "title": "Paystand Access Control Policy 2026",
+        "score": 0.8023,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV",
+        "title": "Paystand Acceptable Use & Password Policy 2026",
+        "score": 0.7842,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-16DKXom4QALncciJwTv7_wHAUWNvfuqKl",
+        "title": "AWS Security Groups Configuration Guidelines 2025",
+        "score": 0.7682,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-11mC1GDuiSOBwtLsUx894DT9S4xZVTj3p",
+        "title": "Change and Tamper-Detection Policy 2025",
+        "score": 0.7679,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9",
+        "title": "Development Methodology 2025",
+        "score": 0.7179,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-107TpZdCgtQb5QJmBXrNlmVmvy6Ouj5CU",
+        "title": "Confidential Data & Media Policy 2026",
+        "score": 0.7097,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-0Bx_ZBVFyKEzmUzNzeFpvTHVaNEhBWjRzYzFQNUtTNFF3aFM4",
+        "title": "CSTPA Scoping Document",
+        "score": 0.6709,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.667,
+        "rank": 8
+      }
+    ],
+    "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0": [
+      {
+        "leaf_id": "file-1ZWnNNCs8MIkbJEGGd2k2vxWGelNEb3hTtjBtXCov_u8",
+        "title": "Versapay BattleCard Story Test",
+        "score": 0.8033,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7935,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7771,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.7757,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.7746,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7742,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7715,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.7708,
+        "rank": 8
+      }
+    ],
+    "file-1CxQCKgbOEWcXuvOpmqrfvgjAyQiT0kxvww8rtlCp3u8": [
+      {
+        "leaf_id": "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA",
+        "title": "Buyer Personas",
+        "score": 0.8799,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7231,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1HGs8EblAB9Ik-BKPc5TNh6BIacPWA0L3YDERzLbK68o",
+        "title": "Copy for genspark - Paystand Sage Demo Deck",
+        "score": 0.7217,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7184,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+        "title": "Case Studies & EBooks Log",
+        "score": 0.709,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4",
+        "title": "Direct / Click to Pay",
+        "score": 0.7033,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.6979,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1FDG-sMVYucfvmNwtqOjk0_GNOWMJNIj6M5YjAQ0n59k",
+        "title": "BigBattery - ValuePrompter",
+        "score": 0.6964,
+        "rank": 8
+      }
+    ],
+    "file-1DRjIEx89LLbZa2J1ORNk25-ckBq0iHPCpgKODgEN-os": [
+      {
+        "leaf_id": "file-1XEQVvwun667jQ_56Zwe-P8WZPjpbCq1QEuayo2EIY94",
+        "title": "Choozle: March 2020 Processing Fees",
+        "score": 0.7793,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-10vqmmwumRGHwEoX7w4rkpdRUvmHXwVCIIsH8iub4Rgw",
+        "title": "Computer Ease Integration",
+        "score": 0.7318,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1DvzSHmC3DkKnMNyfi0TQ67WDyjlfuYwScxLGJfepw3E",
+        "title": "Enevo: March 2020 Processing Fees",
+        "score": 0.7311,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.7303,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1-rWX1X38a-ZK8HNfSnJVb5L2DQ7kavuLBLtMv4OX0BE",
+        "title": "Chargebacks and Disputes",
+        "score": 0.7275,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7273,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.716,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.7113,
+        "rank": 8
+      }
+    ],
+    "file-1DvzSHmC3DkKnMNyfi0TQ67WDyjlfuYwScxLGJfepw3E": [
+      {
+        "leaf_id": "file-1XEQVvwun667jQ_56Zwe-P8WZPjpbCq1QEuayo2EIY94",
+        "title": "Choozle: March 2020 Processing Fees",
+        "score": 0.9087,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1DRjIEx89LLbZa2J1ORNk25-ckBq0iHPCpgKODgEN-os",
+        "title": "Dispute Process",
+        "score": 0.7311,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.7199,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7145,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.7127,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1VeJoZOjGe2WxGYmrXDZiw8NRzIbRmZsNwRk5yunk6G0",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Alt)",
+        "score": 0.7026,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Doc version)",
+        "score": 0.701,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1fc1w3rDTOVY7MiTzeMU7ZoYFergnbWNbs1kFgwYyOns",
+        "title": "Billing Questions for Solutions & CS",
+        "score": 0.6984,
+        "rank": 8
+      }
+    ],
+    "file-1Ef7l5RYeEJeNpXBDzdavZMrEpsnGari3zYKjO9vOUwM": [
+      {
+        "leaf_id": "file-17eVe8kA-aqXw4LCibgFkJhvW9WgDB7OlOLGF5xIkPc8",
+        "title": "Accurate Healthcare Push Payments Addendum",
+        "score": 0.7389,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7188,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7066,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7056,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c",
+        "title": "AblePay Integration Tracking Spreadsheet",
+        "score": 0.7009,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.6968,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.6964,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS",
+        "title": "Acumatica ICP Vertical - Ideal Customer Profile",
+        "score": 0.6943,
+        "rank": 8
+      }
+    ],
+    "file-1EqtElt5XDOSK0e26pxM5kCmAvmtZUk9GDyiOlSnjBT8": [
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.7695,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1uJAjAUp_M8AQheJl7AnJh9NZ19Ry-VE_tL0m137SeMk",
+        "title": "Case Studies Quick Reference",
+        "score": 0.7544,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7543,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.7456,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.74,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.7208,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.7074,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7067,
+        "rank": 8
+      }
+    ],
+    "file-1FDG-sMVYucfvmNwtqOjk0_GNOWMJNIj6M5YjAQ0n59k": [
+      {
+        "leaf_id": "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw",
+        "title": "Direct Webinar Marketing Emails",
+        "score": 0.7321,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7311,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA",
+        "title": "Buyer Personas",
+        "score": 0.7309,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.7177,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.7155,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.7138,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.709,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1IVATnGqJwxn6P5JtQS73JqzkFE-H8T9F",
+        "title": "Choozle Case Study",
+        "score": 0.7072,
+        "rank": 8
+      }
+    ],
+    "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c": [
+      {
+        "leaf_id": "file-10vqmmwumRGHwEoX7w4rkpdRUvmHXwVCIIsH8iub4Rgw",
+        "title": "Computer Ease Integration",
+        "score": 0.8106,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1ZvcVqubawO8QP4q_OvFU2tYb6IXCzZOUTrTft5R3TiI",
+        "title": "CrowdForce Integration (formerly SportsPay)",
+        "score": 0.7915,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1WrmKZH0eKG7xgKz89WBUis7y8HZmw_sjnkJsEXkGNpQ",
+        "title": "Cocoa Productions Integration",
+        "score": 0.7799,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.765,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.7447,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7419,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7365,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7325,
+        "rank": 8
+      }
+    ],
+    "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9": [
+      {
+        "leaf_id": "file-11mC1GDuiSOBwtLsUx894DT9S4xZVTj3p",
+        "title": "Change and Tamper-Detection Policy 2025",
+        "score": 0.7424,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-18svTApTmRiSstFbfp2yoM_VA5kRnhtHY",
+        "title": "Authentication and Identification Procedures 2026",
+        "score": 0.7179,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1hOgctvzQPjpsD2yvfv6uhOTCYpcAKZTMTSMjPg_q4Jc",
+        "title": "Engineering Q1 2021 Strategic Memo",
+        "score": 0.7093,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1826LNEq9xLzOaIzoqpHogAblxwlziVN8",
+        "title": "Paystand Access Control Policy 2026",
+        "score": 0.7011,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-16DKXom4QALncciJwTv7_wHAUWNvfuqKl",
+        "title": "AWS Security Groups Configuration Guidelines 2025",
+        "score": 0.6872,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-107TpZdCgtQb5QJmBXrNlmVmvy6Ouj5CU",
+        "title": "Confidential Data & Media Policy 2026",
+        "score": 0.6843,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV",
+        "title": "Paystand Acceptable Use & Password Policy 2026",
+        "score": 0.6796,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1kyHuFINwHuKhHmLTEc8powfVaxugVutY7k5NgQj_ZnM",
+        "title": "Culture Handbook 2025",
+        "score": 0.6758,
+        "rank": 8
+      }
+    ],
+    "file-1HGs8EblAB9Ik-BKPc5TNh6BIacPWA0L3YDERzLbK68o": [
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.8281,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7884,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7735,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.7715,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.77,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.7556,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.7414,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.7399,
+        "rank": 8
+      }
+    ],
+    "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4": [
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7694,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.7684,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.7563,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7543,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA",
+        "title": "Buyer Personas",
+        "score": 0.7508,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-10vqmmwumRGHwEoX7w4rkpdRUvmHXwVCIIsH8iub4Rgw",
+        "title": "Computer Ease Integration",
+        "score": 0.7471,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.7451,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.7365,
+        "rank": 8
+      }
+    ],
+    "file-1I0PPSZqx1NEQRrroxspvhDcoE2CQHT0T5y": [
+      {
+        "leaf_id": "file-1z-qd6fWdp66S0eiOYudHbXq76CwSHcBmEk",
+        "title": "DriveWealth Integration",
+        "score": 0.7872,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1CxQCKgbOEWcXuvOpmqrfvgjAyQiT0kxvww8rtlCp3u8",
+        "title": "Buyer Personas - copy",
+        "score": 0.6309,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1m4RqcNkHIPtVVDBWB0HniC1FhucYJxJt92f16g9GaUQ",
+        "title": "Early Access Program",
+        "score": 0.6296,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-11R9bMAnwACt0maMQpbrXyTTUb8O2wFp-JPPHmewi-X0",
+        "title": "Sage Intacct Settings and Details - Customer Response Form",
+        "score": 0.6185,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+        "title": "Business Fitness-Paystand Account Planning",
+        "score": 0.6156,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1sK-XJXoF_TOyIRPF3p6UwxWs-lsoMwjUuMhOaOG2kpg",
+        "title": "Dead/Unknown Exhaustion (Sales Prospect Tracker)",
+        "score": 0.6118,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+        "title": "Case Studies & EBooks Log",
+        "score": 0.6083,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c",
+        "title": "AblePay Integration Tracking Spreadsheet",
+        "score": 0.6015,
+        "rank": 8
+      }
+    ],
+    "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A": [
+      {
+        "leaf_id": "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Doc version)",
+        "score": 0.959,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1VeJoZOjGe2WxGYmrXDZiw8NRzIbRmZsNwRk5yunk6G0",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Alt)",
+        "score": 0.9395,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.9386,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.8116,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.798,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7708,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+        "title": "DWSi BC One Pager",
+        "score": 0.7603,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.748,
+        "rank": 8
+      }
+    ],
+    "file-1IVATnGqJwxn6P5JtQS73JqzkFE-H8T9F": [
+      {
+        "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+        "title": "Case Studies & EBooks Log",
+        "score": 0.7601,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.7275,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.7249,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7074,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1FDG-sMVYucfvmNwtqOjk0_GNOWMJNIj6M5YjAQ0n59k",
+        "title": "BigBattery - ValuePrompter",
+        "score": 0.7072,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1T0Lg-g23sjwGN8TyQR8QZdzpCKVS0MC6",
+        "title": "Elenteny Imports Case Study",
+        "score": 0.7066,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.7019,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv",
+        "title": "CAD EFT Product Battlecard",
+        "score": 0.6975,
+        "rank": 8
+      }
+    ],
+    "file-1J-pvo_IWiUG-MpxSBd7vZ5Ssk4cLW_u0aWCEC0oCurQ": [
+      {
+        "leaf_id": "file-1btET2_Ee5XHOGDC67OYhGBQYDPkSTK7Pu9JcDZIG_Is",
+        "title": "All Hands - Revenue Column Chart Data (Region 1, Q3 2015 - Q1 2019)",
+        "score": 0.9071,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1gQbfaa8GTNkQEoSK-G4b6gtI8riN6ES-KbrfJMDlV0Y",
+        "title": "All Hands - Total Revenue Column Chart Data (Q3 2015 - Q1 2019)",
+        "score": 0.8756,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1hOgctvzQPjpsD2yvfv6uhOTCYpcAKZTMTSMjPg_q4Jc",
+        "title": "Engineering Q1 2021 Strategic Memo",
+        "score": 0.6374,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1sK-XJXoF_TOyIRPF3p6UwxWs-lsoMwjUuMhOaOG2kpg",
+        "title": "Dead/Unknown Exhaustion (Sales Prospect Tracker)",
+        "score": 0.6209,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto",
+        "title": "Channel Vertical GTM - template",
+        "score": 0.6156,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.6156,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1wLKI78eVk86LA-nex4bpc2EfVI9MQNXKFAXy8v5NI40",
+        "title": "A/B Testing Framework on Lifecycle Marketing",
+        "score": 0.6127,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.606,
+        "rank": 8
+      }
+    ],
+    "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c": [
+      {
+        "leaf_id": "file-1-Ny7VdVnI1U3uRr3CIdBLScNgrz4mf2uHhgesSK_Wjw",
+        "title": "Champion Enablement Slides",
+        "score": 0.8167,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.805,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7883,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv",
+        "title": "CAD EFT Product Battlecard",
+        "score": 0.7742,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.7725,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7595,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.7593,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4",
+        "title": "Direct / Click to Pay",
+        "score": 0.7563,
+        "rank": 8
+      }
+    ],
+    "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U": [
+      {
+        "leaf_id": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8",
+        "title": "Channels Priorities",
+        "score": 0.7965,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7789,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7764,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU",
+        "title": "Channel's Partner Meetings",
+        "score": 0.7625,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7552,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.7439,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1lJiIcBN0mVw_3ULmu4V2LUg-AV_1IIJ3OWsEOT-iEp4",
+        "title": "#1-Strategic Partner GTM Plan",
+        "score": 0.7429,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1rN12enDgtBXmTROmUW3_-OPdGP4M6uztXCdQ2K3QTH8",
+        "title": "Channel Intacct Partner Meetings - Caam",
+        "score": 0.7418,
+        "rank": 8
+      }
+    ],
+    "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8": [
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.7965,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.773,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.76,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7471,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1iUtI5_vlEeYHxqaDgccoyqMAedbBglBMs1lOqj433xg",
+        "title": "Channel Playbook - Sage",
+        "score": 0.7449,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.7394,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+        "title": "Business Fitness-Paystand Account Planning",
+        "score": 0.7357,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU",
+        "title": "Channel's Partner Meetings",
+        "score": 0.7324,
+        "rank": 8
+      }
+    ],
+    "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8": [
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.959,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1VeJoZOjGe2WxGYmrXDZiw8NRzIbRmZsNwRk5yunk6G0",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Alt)",
+        "score": 0.9551,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.9305,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.7982,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7621,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+        "title": "DWSi BC One Pager",
+        "score": 0.7492,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7431,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1XEQVvwun667jQ_56Zwe-P8WZPjpbCq1QEuayo2EIY94",
+        "title": "Choozle: March 2020 Processing Fees",
+        "score": 0.7361,
+        "rank": 8
+      }
+    ],
+    "file-1NgNF9EgJ5SZ462HaVgp40YU0L7l-s9AmtQ9CeJM4eks": [
+      {
+        "leaf_id": "file-1lJiIcBN0mVw_3ULmu4V2LUg-AV_1IIJ3OWsEOT-iEp4",
+        "title": "#1-Strategic Partner GTM Plan",
+        "score": 0.7987,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto",
+        "title": "Channel Vertical GTM - template",
+        "score": 0.752,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+        "title": "Business Fitness-Paystand Account Planning",
+        "score": 0.7374,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.7274,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.7226,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7209,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1bHAepqceL0baLXDO77IxOiv9NsRtvsLh_UjLZex2my4",
+        "title": "Anderson Frank GTM Plan",
+        "score": 0.7193,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU",
+        "title": "Channel's Partner Meetings",
+        "score": 0.7181,
+        "rank": 8
+      }
+    ],
+    "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk": [
+      {
+        "leaf_id": "file-1rN12enDgtBXmTROmUW3_-OPdGP4M6uztXCdQ2K3QTH8",
+        "title": "Channel Intacct Partner Meetings - Caam",
+        "score": 0.8544,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.8142,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU",
+        "title": "Channel's Partner Meetings",
+        "score": 0.8073,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto",
+        "title": "Channel Vertical GTM - template",
+        "score": 0.7805,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7712,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7684,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1lJiIcBN0mVw_3ULmu4V2LUg-AV_1IIJ3OWsEOT-iEp4",
+        "title": "#1-Strategic Partner GTM Plan",
+        "score": 0.7663,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.7439,
+        "rank": 8
+      }
+    ],
+    "file-1T0Lg-g23sjwGN8TyQR8QZdzpCKVS0MC6": [
+      {
+        "leaf_id": "file-1uJAjAUp_M8AQheJl7AnJh9NZ19Ry-VE_tL0m137SeMk",
+        "title": "Case Studies Quick Reference",
+        "score": 0.7344,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+        "title": "Case Studies & EBooks Log",
+        "score": 0.7141,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1IVATnGqJwxn6P5JtQS73JqzkFE-H8T9F",
+        "title": "Choozle Case Study",
+        "score": 0.7066,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7054,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw",
+        "title": "Direct Webinar Marketing Emails",
+        "score": 0.7016,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.6859,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv",
+        "title": "CAD EFT Product Battlecard",
+        "score": 0.6819,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.6787,
+        "rank": 8
+      }
+    ],
+    "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU": [
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.8567,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1rN12enDgtBXmTROmUW3_-OPdGP4M6uztXCdQ2K3QTH8",
+        "title": "Channel Intacct Partner Meetings - Caam",
+        "score": 0.8345,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.8073,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.7625,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7461,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7372,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto",
+        "title": "Channel Vertical GTM - template",
+        "score": 0.737,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1iUtI5_vlEeYHxqaDgccoyqMAedbBglBMs1lOqj433xg",
+        "title": "Channel Playbook - Sage",
+        "score": 0.7335,
+        "rank": 8
+      }
+    ],
+    "file-1VeJoZOjGe2WxGYmrXDZiw8NRzIbRmZsNwRk5yunk6G0": [
+      {
+        "leaf_id": "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Doc version)",
+        "score": 0.9551,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.9395,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.9032,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.7835,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.75,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+        "title": "DWSi BC One Pager",
+        "score": 0.7346,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7299,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1XEQVvwun667jQ_56Zwe-P8WZPjpbCq1QEuayo2EIY94",
+        "title": "Choozle: March 2020 Processing Fees",
+        "score": 0.7247,
+        "rank": 8
+      }
+    ],
+    "file-1WrmKZH0eKG7xgKz89WBUis7y8HZmw_sjnkJsEXkGNpQ": [
+      {
+        "leaf_id": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c",
+        "title": "AblePay Integration Tracking Spreadsheet",
+        "score": 0.7799,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-10vqmmwumRGHwEoX7w4rkpdRUvmHXwVCIIsH8iub4Rgw",
+        "title": "Computer Ease Integration",
+        "score": 0.7658,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1ZvcVqubawO8QP4q_OvFU2tYb6IXCzZOUTrTft5R3TiI",
+        "title": "CrowdForce Integration (formerly SportsPay)",
+        "score": 0.7357,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7203,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.7094,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4",
+        "title": "Direct / Click to Pay",
+        "score": 0.7055,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.6967,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv",
+        "title": "CAD EFT Product Battlecard",
+        "score": 0.6958,
+        "rank": 8
+      }
+    ],
+    "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE": [
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7599,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.7593,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7521,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7504,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+        "title": "Case Studies & EBooks Log",
+        "score": 0.7503,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1-Ny7VdVnI1U3uRr3CIdBLScNgrz4mf2uHhgesSK_Wjw",
+        "title": "Champion Enablement Slides",
+        "score": 0.7493,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+        "title": "Business Fitness-Paystand Account Planning",
+        "score": 0.7468,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7413,
+        "rank": 8
+      }
+    ],
+    "file-1XEQVvwun667jQ_56Zwe-P8WZPjpbCq1QEuayo2EIY94": [
+      {
+        "leaf_id": "file-1DvzSHmC3DkKnMNyfi0TQ67WDyjlfuYwScxLGJfepw3E",
+        "title": "Enevo: March 2020 Processing Fees",
+        "score": 0.9087,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1DRjIEx89LLbZa2J1ORNk25-ckBq0iHPCpgKODgEN-os",
+        "title": "Dispute Process",
+        "score": 0.7793,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.75,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.7473,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Doc version)",
+        "score": 0.7361,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.7257,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1VeJoZOjGe2WxGYmrXDZiw8NRzIbRmZsNwRk5yunk6G0",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Alt)",
+        "score": 0.7247,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7116,
+        "rank": 8
+      }
+    ],
+    "file-1XPeaWZl7KTVSqmrLamUdPQ9yGebJrjVTj7MUhGc3cOU": [
+      {
+        "leaf_id": "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw",
+        "title": "Direct Webinar Marketing Emails",
+        "score": 0.7409,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-11R9bMAnwACt0maMQpbrXyTTUb8O2wFp-JPPHmewi-X0",
+        "title": "Sage Intacct Settings and Details - Customer Response Form",
+        "score": 0.6625,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto",
+        "title": "Channel Vertical GTM - template",
+        "score": 0.661,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.6526,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.6504,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+        "title": "DWSi BC One Pager",
+        "score": 0.6498,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.6435,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+        "title": "Business Fitness-Paystand Account Planning",
+        "score": 0.6374,
+        "rank": 8
+      }
+    ],
+    "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0": [
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7664,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1ewMwmucSewnhpm0A8hpbYxl5xyLiD9rYFbTn9T2V38w",
+        "title": "Crossbeam Partnership Data (Caravel Partners)",
+        "score": 0.7542,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1sK-XJXoF_TOyIRPF3p6UwxWs-lsoMwjUuMhOaOG2kpg",
+        "title": "Dead/Unknown Exhaustion (Sales Prospect Tracker)",
+        "score": 0.7483,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.7468,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7386,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1NgNF9EgJ5SZ462HaVgp40YU0L7l-s9AmtQ9CeJM4eks",
+        "title": "#12 - Partner Onboarding Process",
+        "score": 0.7374,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8",
+        "title": "Channels Priorities",
+        "score": 0.7357,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1bHAepqceL0baLXDO77IxOiv9NsRtvsLh_UjLZex2my4",
+        "title": "Anderson Frank GTM Plan",
+        "score": 0.7354,
+        "rank": 8
+      }
+    ],
+    "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy": [
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.8967,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv",
+        "title": "CAD EFT Product Battlecard",
+        "score": 0.8746,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.8143,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.7883,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7826,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7771,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1HGs8EblAB9Ik-BKPc5TNh6BIacPWA0L3YDERzLbK68o",
+        "title": "Copy for genspark - Paystand Sage Demo Deck",
+        "score": 0.7735,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.7699,
+        "rank": 8
+      }
+    ],
+    "file-1Yz4fpL6fy6mBV2jH6cLykaYmwxzZaw33MjV2Epd4_wk": [
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.721,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU",
+        "title": "Channel's Partner Meetings",
+        "score": 0.7204,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.718,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.718,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1iUtI5_vlEeYHxqaDgccoyqMAedbBglBMs1lOqj433xg",
+        "title": "Channel Playbook - Sage",
+        "score": 0.7179,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.7169,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-11R9bMAnwACt0maMQpbrXyTTUb8O2wFp-JPPHmewi-X0",
+        "title": "Sage Intacct Settings and Details - Customer Response Form",
+        "score": 0.7111,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1rN12enDgtBXmTROmUW3_-OPdGP4M6uztXCdQ2K3QTH8",
+        "title": "Channel Intacct Partner Meetings - Caam",
+        "score": 0.7063,
+        "rank": 8
+      }
+    ],
+    "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW": [
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.9386,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Doc version)",
+        "score": 0.9305,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1VeJoZOjGe2WxGYmrXDZiw8NRzIbRmZsNwRk5yunk6G0",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Alt)",
+        "score": 0.9032,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.7857,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7826,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7757,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1XEQVvwun667jQ_56Zwe-P8WZPjpbCq1QEuayo2EIY94",
+        "title": "Choozle: March 2020 Processing Fees",
+        "score": 0.75,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+        "title": "DWSi BC One Pager",
+        "score": 0.7464,
+        "rank": 8
+      }
+    ],
+    "file-1ZWnNNCs8MIkbJEGGd2k2vxWGelNEb3hTtjBtXCov_u8": [
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.8033,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.763,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv",
+        "title": "CAD EFT Product Battlecard",
+        "score": 0.7623,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7518,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7411,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7386,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7309,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA",
+        "title": "Buyer Personas",
+        "score": 0.7303,
+        "rank": 8
+      }
+    ],
+    "file-1ZvcVqubawO8QP4q_OvFU2tYb6IXCzZOUTrTft5R3TiI": [
+      {
+        "leaf_id": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c",
+        "title": "AblePay Integration Tracking Spreadsheet",
+        "score": 0.7915,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-10vqmmwumRGHwEoX7w4rkpdRUvmHXwVCIIsH8iub4Rgw",
+        "title": "Computer Ease Integration",
+        "score": 0.7817,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1WrmKZH0eKG7xgKz89WBUis7y8HZmw_sjnkJsEXkGNpQ",
+        "title": "Cocoa Productions Integration",
+        "score": 0.7357,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.7197,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1neiqe9B9l2UQ7TWIQy_feTAcT41kxsf21RBpmBmPVoc",
+        "title": "Customers and Payment Interface",
+        "score": 0.7172,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.703,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7028,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4",
+        "title": "Direct / Click to Pay",
+        "score": 0.7,
+        "rank": 8
+      }
+    ],
+    "file-1bHAepqceL0baLXDO77IxOiv9NsRtvsLh_UjLZex2my4": [
+      {
+        "leaf_id": "file-1lJiIcBN0mVw_3ULmu4V2LUg-AV_1IIJ3OWsEOT-iEp4",
+        "title": "#1-Strategic Partner GTM Plan",
+        "score": 0.8099,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto",
+        "title": "Channel Vertical GTM - template",
+        "score": 0.7427,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+        "title": "Business Fitness-Paystand Account Planning",
+        "score": 0.7354,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7336,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8",
+        "title": "Channels Priorities",
+        "score": 0.7282,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1NgNF9EgJ5SZ462HaVgp40YU0L7l-s9AmtQ9CeJM4eks",
+        "title": "#12 - Partner Onboarding Process",
+        "score": 0.7193,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7029,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.7011,
+        "rank": 8
+      }
+    ],
+    "file-1btET2_Ee5XHOGDC67OYhGBQYDPkSTK7Pu9JcDZIG_Is": [
+      {
+        "leaf_id": "file-1gQbfaa8GTNkQEoSK-G4b6gtI8riN6ES-KbrfJMDlV0Y",
+        "title": "All Hands - Total Revenue Column Chart Data (Q3 2015 - Q1 2019)",
+        "score": 0.9582,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1J-pvo_IWiUG-MpxSBd7vZ5Ssk4cLW_u0aWCEC0oCurQ",
+        "title": "All Hands - Percentage Column Chart Data (Region 1, Q3 2015 - Q1 2019)",
+        "score": 0.9071,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto",
+        "title": "Channel Vertical GTM - template",
+        "score": 0.6415,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS",
+        "title": "Acumatica ICP Vertical - Ideal Customer Profile",
+        "score": 0.6339,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1uJAjAUp_M8AQheJl7AnJh9NZ19Ry-VE_tL0m137SeMk",
+        "title": "Case Studies Quick Reference",
+        "score": 0.6302,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1EqtElt5XDOSK0e26pxM5kCmAvmtZUk9GDyiOlSnjBT8",
+        "title": "CARO | Paystand Network Adoption and Results",
+        "score": 0.6284,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1sK-XJXoF_TOyIRPF3p6UwxWs-lsoMwjUuMhOaOG2kpg",
+        "title": "Dead/Unknown Exhaustion (Sales Prospect Tracker)",
+        "score": 0.6273,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8",
+        "title": "Channels Priorities",
+        "score": 0.6235,
+        "rank": 8
+      }
+    ],
+    "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8": [
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.9327,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1HGs8EblAB9Ik-BKPc5TNh6BIacPWA0L3YDERzLbK68o",
+        "title": "Copy for genspark - Paystand Sage Demo Deck",
+        "score": 0.8281,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1iUtI5_vlEeYHxqaDgccoyqMAedbBglBMs1lOqj433xg",
+        "title": "Channel Playbook - Sage",
+        "score": 0.8061,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.806,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.8025,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7742,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.7733,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.7712,
+        "rank": 8
+      }
+    ],
+    "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA": [
+      {
+        "leaf_id": "file-1CxQCKgbOEWcXuvOpmqrfvgjAyQiT0kxvww8rtlCp3u8",
+        "title": "Buyer Personas - copy",
+        "score": 0.8799,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7561,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS",
+        "title": "Acumatica ICP Vertical - Ideal Customer Profile",
+        "score": 0.7522,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4",
+        "title": "Direct / Click to Pay",
+        "score": 0.7508,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7487,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw",
+        "title": "Direct Webinar Marketing Emails",
+        "score": 0.739,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7352,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+        "title": "Case Studies & EBooks Log",
+        "score": 0.7344,
+        "rank": 8
+      }
+    ],
+    "file-1ewMwmucSewnhpm0A8hpbYxl5xyLiD9rYFbTn9T2V38w": [
+      {
+        "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+        "title": "Business Fitness-Paystand Account Planning",
+        "score": 0.7542,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7441,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.7381,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7059,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7054,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.6998,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1ylklnTLUv_cvrIvlbUmxX0ONCFS744vBBvRwOzMpFlg",
+        "title": "Dynamics integration research",
+        "score": 0.6961,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.6955,
+        "rank": 8
+      }
+    ],
+    "file-1fc1w3rDTOVY7MiTzeMU7ZoYFergnbWNbs1kFgwYyOns": [
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.727,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1-rWX1X38a-ZK8HNfSnJVb5L2DQ7kavuLBLtMv4OX0BE",
+        "title": "Chargebacks and Disputes",
+        "score": 0.723,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.7224,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw",
+        "title": "Direct Webinar Marketing Emails",
+        "score": 0.7204,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Doc version)",
+        "score": 0.7187,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7179,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.7125,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS",
+        "title": "Acumatica ICP Vertical - Ideal Customer Profile",
+        "score": 0.7062,
+        "rank": 8
+      }
+    ],
+    "file-1gQbfaa8GTNkQEoSK-G4b6gtI8riN6ES-KbrfJMDlV0Y": [
+      {
+        "leaf_id": "file-1btET2_Ee5XHOGDC67OYhGBQYDPkSTK7Pu9JcDZIG_Is",
+        "title": "All Hands - Revenue Column Chart Data (Region 1, Q3 2015 - Q1 2019)",
+        "score": 0.9582,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1J-pvo_IWiUG-MpxSBd7vZ5Ssk4cLW_u0aWCEC0oCurQ",
+        "title": "All Hands - Percentage Column Chart Data (Region 1, Q3 2015 - Q1 2019)",
+        "score": 0.8756,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-17eVe8kA-aqXw4LCibgFkJhvW9WgDB7OlOLGF5xIkPc8",
+        "title": "Accurate Healthcare Push Payments Addendum",
+        "score": 0.6497,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1wLKI78eVk86LA-nex4bpc2EfVI9MQNXKFAXy8v5NI40",
+        "title": "A/B Testing Framework on Lifecycle Marketing",
+        "score": 0.6399,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto",
+        "title": "Channel Vertical GTM - template",
+        "score": 0.639,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1EqtElt5XDOSK0e26pxM5kCmAvmtZUk9GDyiOlSnjBT8",
+        "title": "CARO | Paystand Network Adoption and Results",
+        "score": 0.6379,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS",
+        "title": "Acumatica ICP Vertical - Ideal Customer Profile",
+        "score": 0.6377,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.6286,
+        "rank": 8
+      }
+    ],
+    "file-1hOgctvzQPjpsD2yvfv6uhOTCYpcAKZTMTSMjPg_q4Jc": [
+      {
+        "leaf_id": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9",
+        "title": "Development Methodology 2025",
+        "score": 0.7093,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8",
+        "title": "Channels Priorities",
+        "score": 0.674,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-11mC1GDuiSOBwtLsUx894DT9S4xZVTj3p",
+        "title": "Change and Tamper-Detection Policy 2025",
+        "score": 0.6475,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1ewMwmucSewnhpm0A8hpbYxl5xyLiD9rYFbTn9T2V38w",
+        "title": "Crossbeam Partnership Data (Caravel Partners)",
+        "score": 0.6436,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1bHAepqceL0baLXDO77IxOiv9NsRtvsLh_UjLZex2my4",
+        "title": "Anderson Frank GTM Plan",
+        "score": 0.6417,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1wLKI78eVk86LA-nex4bpc2EfVI9MQNXKFAXy8v5NI40",
+        "title": "A/B Testing Framework on Lifecycle Marketing",
+        "score": 0.641,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1826LNEq9xLzOaIzoqpHogAblxwlziVN8",
+        "title": "Paystand Access Control Policy 2026",
+        "score": 0.6387,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1fc1w3rDTOVY7MiTzeMU7ZoYFergnbWNbs1kFgwYyOns",
+        "title": "Billing Questions for Solutions & CS",
+        "score": 0.6384,
+        "rank": 8
+      }
+    ],
+    "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU": [
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.9327,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1iUtI5_vlEeYHxqaDgccoyqMAedbBglBMs1lOqj433xg",
+        "title": "Channel Playbook - Sage",
+        "score": 0.8603,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.8211,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1HGs8EblAB9Ik-BKPc5TNh6BIacPWA0L3YDERzLbK68o",
+        "title": "Copy for genspark - Paystand Sage Demo Deck",
+        "score": 0.7884,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.7789,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7715,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.7684,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8",
+        "title": "Channels Priorities",
+        "score": 0.76,
+        "rank": 8
+      }
+    ],
+    "file-1iUtI5_vlEeYHxqaDgccoyqMAedbBglBMs1lOqj433xg": [
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.8603,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.8061,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7703,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8",
+        "title": "Channels Priorities",
+        "score": 0.7449,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.7424,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.7363,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU",
+        "title": "Channel's Partner Meetings",
+        "score": 0.7335,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.7237,
+        "rank": 8
+      }
+    ],
+    "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw": [
+      {
+        "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+        "title": "Case Studies & EBooks Log",
+        "score": 0.7608,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7492,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.7415,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1XPeaWZl7KTVSqmrLamUdPQ9yGebJrjVTj7MUhGc3cOU",
+        "title": "BDR UTM Codes for Upcoming Webinars",
+        "score": 0.7409,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA",
+        "title": "Buyer Personas",
+        "score": 0.739,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7364,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1FDG-sMVYucfvmNwtqOjk0_GNOWMJNIj6M5YjAQ0n59k",
+        "title": "BigBattery - ValuePrompter",
+        "score": 0.7321,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7311,
+        "rank": 8
+      }
+    ],
+    "file-1kyHuFINwHuKhHmLTEc8powfVaxugVutY7k5NgQj_ZnM": [
+      {
+        "leaf_id": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9",
+        "title": "Development Methodology 2025",
+        "score": 0.6758,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.6732,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1rCQBa9qKb1PYmJbEmmb52nFNDrIKZ2uT",
+        "title": "BC ICP Vertical - Paystand A/R Ideal Customer Profile for Business Central",
+        "score": 0.6688,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.666,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+        "title": "Case Studies & EBooks Log",
+        "score": 0.6659,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-107TpZdCgtQb5QJmBXrNlmVmvy6Ouj5CU",
+        "title": "Confidential Data & Media Policy 2026",
+        "score": 0.6618,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.656,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA",
+        "title": "Buyer Personas",
+        "score": 0.6517,
+        "rank": 8
+      }
+    ],
+    "file-1lJiIcBN0mVw_3ULmu4V2LUg-AV_1IIJ3OWsEOT-iEp4": [
+      {
+        "leaf_id": "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto",
+        "title": "Channel Vertical GTM - template",
+        "score": 0.8349,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1bHAepqceL0baLXDO77IxOiv9NsRtvsLh_UjLZex2my4",
+        "title": "Anderson Frank GTM Plan",
+        "score": 0.8099,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1NgNF9EgJ5SZ462HaVgp40YU0L7l-s9AmtQ9CeJM4eks",
+        "title": "#12 - Partner Onboarding Process",
+        "score": 0.7987,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.7663,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.7429,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+        "title": "Business Fitness-Paystand Account Planning",
+        "score": 0.7327,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8",
+        "title": "Channels Priorities",
+        "score": 0.7302,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7189,
+        "rank": 8
+      }
+    ],
+    "file-1m4RqcNkHIPtVVDBWB0HniC1FhucYJxJt92f16g9GaUQ": [
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.7462,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c",
+        "title": "AblePay Integration Tracking Spreadsheet",
+        "score": 0.7125,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1neiqe9B9l2UQ7TWIQy_feTAcT41kxsf21RBpmBmPVoc",
+        "title": "Customers and Payment Interface",
+        "score": 0.7116,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.705,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager (Doc version)",
+        "score": 0.7007,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+        "title": "1.99 Tiered-Rate Credit Card Processing One Pager (PDF)",
+        "score": 0.6998,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw",
+        "title": "Direct Webinar Marketing Emails",
+        "score": 0.6973,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA",
+        "title": "Buyer Personas",
+        "score": 0.6948,
+        "rank": 8
+      }
+    ],
+    "file-1neiqe9B9l2UQ7TWIQy_feTAcT41kxsf21RBpmBmPVoc": [
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7191,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1ZvcVqubawO8QP4q_OvFU2tYb6IXCzZOUTrTft5R3TiI",
+        "title": "CrowdForce Integration (formerly SportsPay)",
+        "score": 0.7172,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-13JsSaxFeLDpWue1cqc1P-YuxggVT1iXwpkLjiJdptSA",
+        "title": "Billing Page Customizations",
+        "score": 0.7156,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4",
+        "title": "Direct / Click to Pay",
+        "score": 0.7149,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1m4RqcNkHIPtVVDBWB0HniC1FhucYJxJt92f16g9GaUQ",
+        "title": "Early Access Program",
+        "score": 0.7116,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.7049,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS",
+        "title": "Acumatica ICP Vertical - Ideal Customer Profile",
+        "score": 0.6987,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c",
+        "title": "AblePay Integration Tracking Spreadsheet",
+        "score": 0.697,
+        "rank": 8
+      }
+    ],
+    "file-1oUiCRnOAcnU4KnFCxRmK2tE3V5rhLQ7Y9nVM-mNnR34": [
+      {
+        "leaf_id": "file-1m4RqcNkHIPtVVDBWB0HniC1FhucYJxJt92f16g9GaUQ",
+        "title": "Early Access Program",
+        "score": 0.6913,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1neiqe9B9l2UQ7TWIQy_feTAcT41kxsf21RBpmBmPVoc",
+        "title": "Customers and Payment Interface",
+        "score": 0.6841,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.6821,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-17eVe8kA-aqXw4LCibgFkJhvW9WgDB7OlOLGF5xIkPc8",
+        "title": "Accurate Healthcare Push Payments Addendum",
+        "score": 0.6793,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1y4kTQiYUGtPCF3Pul7HSjBdVHOoADSAs1bd-HHPn_7k",
+        "title": "DataBlend Addendum — Multiple Currencies",
+        "score": 0.6636,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-13JsSaxFeLDpWue1cqc1P-YuxggVT1iXwpkLjiJdptSA",
+        "title": "Billing Page Customizations",
+        "score": 0.6553,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.65,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1DRjIEx89LLbZa2J1ORNk25-ckBq0iHPCpgKODgEN-os",
+        "title": "Dispute Process",
+        "score": 0.6453,
+        "rank": 8
+      }
+    ],
+    "file-1rCQBa9qKb1PYmJbEmmb52nFNDrIKZ2uT": [
+      {
+        "leaf_id": "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS",
+        "title": "Acumatica ICP Vertical - Ideal Customer Profile",
+        "score": 0.8771,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.8178,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.7948,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+        "title": "DWSi BC One Pager",
+        "score": 0.7779,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7503,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.745,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7398,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv",
+        "title": "CAD EFT Product Battlecard",
+        "score": 0.7385,
+        "rank": 8
+      }
+    ],
+    "file-1rN12enDgtBXmTROmUW3_-OPdGP4M6uztXCdQ2K3QTH8": [
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.8544,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU",
+        "title": "Channel's Partner Meetings",
+        "score": 0.8345,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7991,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7528,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7508,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.7418,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1ylklnTLUv_cvrIvlbUmxX0ONCFS744vBBvRwOzMpFlg",
+        "title": "Dynamics integration research",
+        "score": 0.7282,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto",
+        "title": "Channel Vertical GTM - template",
+        "score": 0.7231,
+        "rank": 8
+      }
+    ],
+    "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4": [
+      {
+        "leaf_id": "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU",
+        "title": "Channel's Partner Meetings",
+        "score": 0.8567,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.8211,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.8142,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.806,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1rN12enDgtBXmTROmUW3_-OPdGP4M6uztXCdQ2K3QTH8",
+        "title": "Channel Intacct Partner Meetings - Caam",
+        "score": 0.7991,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+        "title": "Chad Reiser - Paystand Channel Partner Program",
+        "score": 0.7764,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8",
+        "title": "Channels Priorities",
+        "score": 0.773,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1iUtI5_vlEeYHxqaDgccoyqMAedbBglBMs1lOqj433xg",
+        "title": "Channel Playbook - Sage",
+        "score": 0.7703,
+        "rank": 8
+      }
+    ],
+    "file-1sK-XJXoF_TOyIRPF3p6UwxWs-lsoMwjUuMhOaOG2kpg": [
+      {
+        "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+        "title": "Business Fitness-Paystand Account Planning",
+        "score": 0.7483,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7138,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.7027,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1IVATnGqJwxn6P5JtQS73JqzkFE-H8T9F",
+        "title": "Choozle Case Study",
+        "score": 0.6947,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1rCQBa9qKb1PYmJbEmmb52nFNDrIKZ2uT",
+        "title": "BC ICP Vertical - Paystand A/R Ideal Customer Profile for Business Central",
+        "score": 0.6915,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS",
+        "title": "Acumatica ICP Vertical - Ideal Customer Profile",
+        "score": 0.6912,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.6912,
+        "rank": 8
+      }
+    ],
+    "file-1uJAjAUp_M8AQheJl7AnJh9NZ19Ry-VE_tL0m137SeMk": [
+      {
+        "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+        "title": "Case Studies & EBooks Log",
+        "score": 0.7873,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1EqtElt5XDOSK0e26pxM5kCmAvmtZUk9GDyiOlSnjBT8",
+        "title": "CARO | Paystand Network Adoption and Results",
+        "score": 0.7544,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.749,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1T0Lg-g23sjwGN8TyQR8QZdzpCKVS0MC6",
+        "title": "Elenteny Imports Case Study",
+        "score": 0.7344,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1IVATnGqJwxn6P5JtQS73JqzkFE-H8T9F",
+        "title": "Choozle Case Study",
+        "score": 0.694,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.694,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS",
+        "title": "Acumatica ICP Vertical - Ideal Customer Profile",
+        "score": 0.6876,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.6864,
+        "rank": 8
+      }
+    ],
+    "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A": [
+      {
+        "leaf_id": "file-1uJAjAUp_M8AQheJl7AnJh9NZ19Ry-VE_tL0m137SeMk",
+        "title": "Case Studies Quick Reference",
+        "score": 0.7873,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw",
+        "title": "Direct Webinar Marketing Emails",
+        "score": 0.7608,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1IVATnGqJwxn6P5JtQS73JqzkFE-H8T9F",
+        "title": "Choozle Case Study",
+        "score": 0.7601,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7584,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.7503,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.7493,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA",
+        "title": "Buyer Personas",
+        "score": 0.7344,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7309,
+        "rank": 8
+      }
+    ],
+    "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv": [
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.8746,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.8688,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+        "title": "Champion Deck Paystand for NetSuite",
+        "score": 0.7742,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1ZWnNNCs8MIkbJEGGd2k2vxWGelNEb3hTtjBtXCov_u8",
+        "title": "Versapay BattleCard Story Test",
+        "score": 0.7623,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7525,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.7396,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1rCQBa9qKb1PYmJbEmmb52nFNDrIKZ2uT",
+        "title": "BC ICP Vertical - Paystand A/R Ideal Customer Profile for Business Central",
+        "score": 0.7385,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1HGs8EblAB9Ik-BKPc5TNh6BIacPWA0L3YDERzLbK68o",
+        "title": "Copy for genspark - Paystand Sage Demo Deck",
+        "score": 0.7342,
+        "rank": 8
+      }
+    ],
+    "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS": [
+      {
+        "leaf_id": "file-1rCQBa9qKb1PYmJbEmmb52nFNDrIKZ2uT",
+        "title": "BC ICP Vertical - Paystand A/R Ideal Customer Profile for Business Central",
+        "score": 0.8771,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.7891,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA",
+        "title": "Buyer Personas",
+        "score": 0.7522,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.7507,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.7398,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.7367,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7284,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv",
+        "title": "CAD EFT Product Battlecard",
+        "score": 0.726,
+        "rank": 8
+      }
+    ],
+    "file-1wLKI78eVk86LA-nex4bpc2EfVI9MQNXKFAXy8v5NI40": [
+      {
+        "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+        "title": "Case Studies & EBooks Log",
+        "score": 0.7131,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw",
+        "title": "Direct Webinar Marketing Emails",
+        "score": 0.7013,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.6993,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+        "title": "Competitive Comparison",
+        "score": 0.6836,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1uJAjAUp_M8AQheJl7AnJh9NZ19Ry-VE_tL0m137SeMk",
+        "title": "Case Studies Quick Reference",
+        "score": 0.68,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1FDG-sMVYucfvmNwtqOjk0_GNOWMJNIj6M5YjAQ0n59k",
+        "title": "BigBattery - ValuePrompter",
+        "score": 0.6789,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.6782,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+        "title": "DEMO Microsoft Dynamics Community Summit 2024",
+        "score": 0.675,
+        "rank": 8
+      }
+    ],
+    "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46": [
+      {
+        "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+        "title": "Battlecard BC - Paystand for Business Central",
+        "score": 0.8329,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+        "title": "Paystand for Acumatica - One Pager v2",
+        "score": 0.8247,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.8009,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1rCQBa9qKb1PYmJbEmmb52nFNDrIKZ2uT",
+        "title": "BC ICP Vertical - Paystand A/R Ideal Customer Profile for Business Central",
+        "score": 0.7779,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+        "title": "Battlecard NAV & GP - Paystand X",
+        "score": 0.7681,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+        "title": "Case Study Business Central",
+        "score": 0.7671,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7604,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+        "title": "1.99 Flat-Rate Credit Card Processing One Pager",
+        "score": 0.7603,
+        "rank": 8
+      }
+    ],
+    "file-1wyA_QkO3Ou1qUW3bdXU7pJ0AwHWbOxUJ": [
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.6968,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU",
+        "title": "Channel's Partner Meetings",
+        "score": 0.6741,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1ylklnTLUv_cvrIvlbUmxX0ONCFS744vBBvRwOzMpFlg",
+        "title": "Dynamics integration research",
+        "score": 0.6616,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1ewMwmucSewnhpm0A8hpbYxl5xyLiD9rYFbTn9T2V38w",
+        "title": "Crossbeam Partnership Data (Caravel Partners)",
+        "score": 0.6608,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1wLKI78eVk86LA-nex4bpc2EfVI9MQNXKFAXy8v5NI40",
+        "title": "A/B Testing Framework on Lifecycle Marketing",
+        "score": 0.6581,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.6509,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+        "title": "Case Studies & EBooks Log",
+        "score": 0.6496,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1CxQCKgbOEWcXuvOpmqrfvgjAyQiT0kxvww8rtlCp3u8",
+        "title": "Buyer Personas - copy",
+        "score": 0.6489,
+        "rank": 8
+      }
+    ],
+    "file-1y4kTQiYUGtPCF3Pul7HSjBdVHOoADSAs1bd-HHPn_7k": [
+      {
+        "leaf_id": "file-17eVe8kA-aqXw4LCibgFkJhvW9WgDB7OlOLGF5xIkPc8",
+        "title": "Accurate Healthcare Push Payments Addendum",
+        "score": 0.6855,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1neiqe9B9l2UQ7TWIQy_feTAcT41kxsf21RBpmBmPVoc",
+        "title": "Customers and Payment Interface",
+        "score": 0.6785,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1oUiCRnOAcnU4KnFCxRmK2tE3V5rhLQ7Y9nVM-mNnR34",
+        "title": "BETA > customer.subscription",
+        "score": 0.6636,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1Ef7l5RYeEJeNpXBDzdavZMrEpsnGari3zYKjO9vOUwM",
+        "title": "ALOHA Collection Addendum",
+        "score": 0.6476,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-11R9bMAnwACt0maMQpbrXyTTUb8O2wFp-JPPHmewi-X0",
+        "title": "Sage Intacct Settings and Details - Customer Response Form",
+        "score": 0.6474,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+        "title": "EARLY PAY One Pager",
+        "score": 0.6447,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV",
+        "title": "Paystand Acceptable Use & Password Policy 2026",
+        "score": 0.6295,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1XPeaWZl7KTVSqmrLamUdPQ9yGebJrjVTj7MUhGc3cOU",
+        "title": "BDR UTM Codes for Upcoming Webinars",
+        "score": 0.6239,
+        "rank": 8
+      }
+    ],
+    "file-1ylklnTLUv_cvrIvlbUmxX0ONCFS744vBBvRwOzMpFlg": [
+      {
+        "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+        "title": "Enriched Partner List",
+        "score": 0.753,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1rN12enDgtBXmTROmUW3_-OPdGP4M6uztXCdQ2K3QTH8",
+        "title": "Channel Intacct Partner Meetings - Caam",
+        "score": 0.7282,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+        "title": "Caam's Sage GTM Working Sheet",
+        "score": 0.7232,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+        "title": "Ben's Sage Intacct-Rev4 Partner Playbook",
+        "score": 0.707,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+        "title": "Ben's Sage Intacct rev2",
+        "score": 0.7058,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+        "title": "DWSi BC One Pager",
+        "score": 0.7057,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c",
+        "title": "AblePay Integration Tracking Spreadsheet",
+        "score": 0.6969,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1ewMwmucSewnhpm0A8hpbYxl5xyLiD9rYFbTn9T2V38w",
+        "title": "Crossbeam Partnership Data (Caravel Partners)",
+        "score": 0.6961,
+        "rank": 8
+      }
+    ],
+    "file-1z-qd6fWdp66S0eiOYudHbXq76CwSHcBmEk": [
+      {
+        "leaf_id": "file-1I0PPSZqx1NEQRrroxspvhDcoE2CQHT0T5y",
+        "title": "duplicate accounts",
+        "score": 0.7872,
+        "rank": 1
+      },
+      {
+        "leaf_id": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c",
+        "title": "AblePay Integration Tracking Spreadsheet",
+        "score": 0.6527,
+        "rank": 2
+      },
+      {
+        "leaf_id": "file-10vqmmwumRGHwEoX7w4rkpdRUvmHXwVCIIsH8iub4Rgw",
+        "title": "Computer Ease Integration",
+        "score": 0.6514,
+        "rank": 3
+      },
+      {
+        "leaf_id": "file-1ylklnTLUv_cvrIvlbUmxX0ONCFS744vBBvRwOzMpFlg",
+        "title": "Dynamics integration research",
+        "score": 0.6337,
+        "rank": 4
+      },
+      {
+        "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+        "title": "Channel Sales Enablement Library",
+        "score": 0.631,
+        "rank": 5
+      },
+      {
+        "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+        "title": "Case Studies & EBooks Log",
+        "score": 0.6283,
+        "rank": 6
+      },
+      {
+        "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+        "title": "DWSi BC One Pager",
+        "score": 0.6281,
+        "rank": 7
+      },
+      {
+        "leaf_id": "file-1ZvcVqubawO8QP4q_OvFU2tYb6IXCzZOUTrTft5R3TiI",
+        "title": "CrowdForce Integration (formerly SportsPay)",
+        "score": 0.6279,
+        "rank": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,2055 @@
+{
+  "validated_at": "2026-06-23T04:47:29+00:00",
+  "leaves_dir": "input/leaves",
+  "total": 112,
+  "counts": {
+    "ok": 16,
+    "ok_with_warnings": 69,
+    "skipped_not_ready": 27,
+    "failed": 0
+  },
+  "leaves": {
+    "file-0Bx_ZBVFyKEzmUzNzeFpvTHVaNEhBWjRzYzFQNUtTNFF3aFM4": {
+      "file": "file-0Bx_ZBVFyKEzmUzNzeFpvTHVaNEhBWjRzYzFQNUtTNFF3aFM4.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "no entities extracted across any category",
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-0Bx_ZBVFyKEzmUzNzeFpvTHVaNEhBWjRzYzFQNUtTNFF3aFM4",
+      "name": "CSTPA Scoping Document",
+      "document_type": "scoping-document",
+      "business_area": [
+        "security"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1-Ny7VdVnI1U3uRr3CIdBLScNgrz4mf2uHhgesSK_Wjw": {
+      "file": "file-1-Ny7VdVnI1U3uRr3CIdBLScNgrz4mf2uHhgesSK_Wjw.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-1-Ny7VdVnI1U3uRr3CIdBLScNgrz4mf2uHhgesSK_Wjw",
+      "name": "Champion Enablement Slides",
+      "document_type": "sales_deck",
+      "business_area": [
+        "sales",
+        "product"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1-rWX1X38a-ZK8HNfSnJVb5L2DQ7kavuLBLtMv4OX0BE": {
+      "file": "file-1-rWX1X38a-ZK8HNfSnJVb5L2DQ7kavuLBLtMv4OX0BE.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'deprecated'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1-rWX1X38a-ZK8HNfSnJVb5L2DQ7kavuLBLtMv4OX0BE",
+      "name": "Chargebacks and Disputes",
+      "document_type": "operational_tracker",
+      "business_area": [
+        "finance",
+        "risk",
+        "operations"
+      ],
+      "doc_status": "deprecated",
+      "sensitivity": "pii-risk",
+      "ready_for_clustering": true
+    },
+    "file-107TpZdCgtQb5QJmBXrNlmVmvy6Ouj5CU": {
+      "file": "file-107TpZdCgtQb5QJmBXrNlmVmvy6Ouj5CU.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-107TpZdCgtQb5QJmBXrNlmVmvy6Ouj5CU",
+      "name": "Confidential Data & Media Policy 2026",
+      "document_type": "policy-document",
+      "business_area": [
+        "compliance",
+        "operations"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-10EVXaFPr9iwgQsMRaxndTAq5wl39rxICa5HrA3h_CWg": {
+      "file": "file-10EVXaFPr9iwgQsMRaxndTAq5wl39rxICa5HrA3h_CWg.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "business_area 'Product' is not lowercase; will normalize downstream",
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-10EVXaFPr9iwgQsMRaxndTAq5wl39rxICa5HrA3h_CWg",
+      "name": "Acumatica 2025 - Product Overview",
+      "document_type": "presentation",
+      "business_area": [
+        "Sales",
+        "Product"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-10ebwQLhIeI_ksM3X8xMf9ZENndiHd": {
+      "file": "file-10ebwQLhIeI_ksM3X8xMf9ZENndiHd.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "source.url is empty",
+        "source.last_modified is null",
+        "source.mime_type is 'unknown'",
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-10ebwQLhIeI_ksM3X8xMf9ZENndiHd",
+      "name": "Closed Lost Competitors",
+      "document_type": "unknown",
+      "business_area": [
+        "unknown"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "unknown",
+      "ready_for_clustering": false
+    },
+    "file-10ebwQLhIeI_ksM3X8xMf9ZENndiHdDmzOr": {
+      "file": "file-10ebwQLhIeI_ksM3X8xMf9ZENndiHdDmzOr.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-10ebwQLhIeI_ksM3X8xMf9ZENndiHdDmzOr",
+      "name": "Closed Lost Competitors",
+      "document_type": "spreadsheet",
+      "business_area": [
+        "sales"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "confidential",
+      "ready_for_clustering": false
+    },
+    "file-10ebwQLhIeI_ksM3X8xMf9ZENndiHdDmzOrsj4yRw5mE": {
+      "file": "file-10ebwQLhIeI_ksM3X8xMf9ZENndiHdDmzOrsj4yRw5mE.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-10ebwQLhIeI_ksM3X8xMf9ZENndiHdDmzOrsj4yRw5mE",
+      "name": "Closed Lost Competitors",
+      "document_type": "read_fail",
+      "business_area": [
+        "Sales"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-10vqmmwumRGHwEoX7w4rkpdRUvmHXwVCIIsH8iub4Rgw": {
+      "file": "file-10vqmmwumRGHwEoX7w4rkpdRUvmHXwVCIIsH8iub4Rgw.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-10vqmmwumRGHwEoX7w4rkpdRUvmHXwVCIIsH8iub4Rgw",
+      "name": "Computer Ease Integration",
+      "document_type": "integration-tracking-sheet",
+      "business_area": [
+        "integrations"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-11KWxajCPdQ46DzdOqKOqiw4hynofriTJtZkO2mroexs": {
+      "file": "file-11KWxajCPdQ46DzdOqKOqiw4hynofriTJtZkO2mroexs.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-11KWxajCPdQ46DzdOqKOqiw4hynofriTJtZkO2mroexs",
+      "name": "Dallas NUG June2021",
+      "document_type": "event-attendee-list",
+      "business_area": [
+        "channel",
+        "sales"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-11R9bMAnwACt0maMQpbrXyTTUb8O2wFp-JPPHmewi-X0": {
+      "file": "file-11R9bMAnwACt0maMQpbrXyTTUb8O2wFp-JPPHmewi-X0.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Product' is not lowercase; will normalize downstream",
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "business_area 'Integrations' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-11R9bMAnwACt0maMQpbrXyTTUb8O2wFp-JPPHmewi-X0",
+      "name": "3. Sage Settings and Details (Responses)",
+      "document_type": "integration_data",
+      "business_area": [
+        "Product",
+        "Sales",
+        "Integrations"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-11mC1GDuiSOBwtLsUx894DT9S4xZVTj3p": {
+      "file": "file-11mC1GDuiSOBwtLsUx894DT9S4xZVTj3p.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-11mC1GDuiSOBwtLsUx894DT9S4xZVTj3p",
+      "name": "Change and Tamper-Detection Policy 2025.pdf",
+      "document_type": "policy",
+      "business_area": [
+        "security",
+        "engineering",
+        "compliance"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq": {
+      "file": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "business_area 'Product' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-122TveuDUeclP280i9vp1Eik8GzPHUzOq",
+      "name": "Battlecard BC",
+      "document_type": "battlecard",
+      "business_area": [
+        "Sales",
+        "Product"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8": {
+      "file": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-12UGwTZcEINtnHBgP_cUuQv-xIdJ9Vl0eyZVBycYDXO8",
+      "name": "DEMO Microsoft Dynamics Community Summit 2024",
+      "document_type": "demo_deck",
+      "business_area": [
+        "sales",
+        "product"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-13JsSaxFeLDpWue1cqc1P-YuxggVT1iXwpkLjiJdptSA": {
+      "file": "file-13JsSaxFeLDpWue1cqc1P-YuxggVT1iXwpkLjiJdptSA.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'deprecated'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-13JsSaxFeLDpWue1cqc1P-YuxggVT1iXwpkLjiJdptSA",
+      "name": "Billing Page Customizations",
+      "document_type": "product_documentation",
+      "business_area": [
+        "product",
+        "engineering"
+      ],
+      "doc_status": "deprecated",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M": {
+      "file": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-13SCOrh8exVbebsixsJT9noP9lrYcUjMIeOVbYlvOM1M",
+      "name": "Case Study Business Central",
+      "document_type": "case-study",
+      "business_area": [
+        "sales",
+        "marketing"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-13a-1_XKEHLewbkdXwD0QveK-X3sX5GYr": {
+      "file": "file-13a-1_XKEHLewbkdXwD0QveK-X3sX5GYr.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-13a-1_XKEHLewbkdXwD0QveK-X3sX5GYr",
+      "name": "Completed 2018 SDN Membership Renewal",
+      "document_type": "legal-document",
+      "business_area": [
+        "channel",
+        "legal"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ": {
+      "file": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "business_area 'Product' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-15y8nuBid2mDqBLOB1R_W7eeqgwtwJQZJ",
+      "name": "Acumatica One Pager v2",
+      "document_type": "sales_collateral",
+      "business_area": [
+        "Sales",
+        "Product"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-161Eh-NCdxjWNXCFHggfgmaAzpjdxrzyV": {
+      "file": "file-161Eh-NCdxjWNXCFHggfgmaAzpjdxrzyV.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-161Eh-NCdxjWNXCFHggfgmaAzpjdxrzyV",
+      "name": "Completed 2017 SDN Membership Initial",
+      "document_type": "legal-document",
+      "business_area": [
+        "channel",
+        "legal"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-16DKXom4QALncciJwTv7_wHAUWNvfuqKl": {
+      "file": "file-16DKXom4QALncciJwTv7_wHAUWNvfuqKl.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Compliance' is not lowercase; will normalize downstream",
+        "business_area 'Engineering' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-16DKXom4QALncciJwTv7_wHAUWNvfuqKl",
+      "name": "AWS Security Groups Configuration Guidelines 2025",
+      "document_type": "policy_guideline",
+      "business_area": [
+        "Compliance",
+        "Engineering"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto": {
+      "file": "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-16U5sfbGj3R5A48txLcjtZOi3lijfwbhlkt_Lk61Poto",
+      "name": "Channel Vertical GTM - template",
+      "document_type": "gtm_template",
+      "business_area": [
+        "sales",
+        "channels",
+        "marketing"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV": {
+      "file": "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Compliance' is not lowercase; will normalize downstream",
+        "business_area 'Engineering' is not lowercase; will normalize downstream",
+        "business_area 'HR' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-17JbL0eUYjhgrlyApBGRM4g5bpDf6kBJV",
+      "name": "Acceptable Use & Password Policy 2026",
+      "document_type": "policy",
+      "business_area": [
+        "Compliance",
+        "Engineering",
+        "HR"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-17eVe8kA-aqXw4LCibgFkJhvW9WgDB7OlOLGF5xIkPc8": {
+      "file": "file-17eVe8kA-aqXw4LCibgFkJhvW9WgDB7OlOLGF5xIkPc8.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "business_area 'Legal' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-17eVe8kA-aqXw4LCibgFkJhvW9WgDB7OlOLGF5xIkPc8",
+      "name": "Accurate Healthcare Addendum - Push Payments",
+      "document_type": "contract_addendum",
+      "business_area": [
+        "Sales",
+        "Legal"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1826LNEq9xLzOaIzoqpHogAblxwlziVN8": {
+      "file": "file-1826LNEq9xLzOaIzoqpHogAblxwlziVN8.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Compliance' is not lowercase; will normalize downstream",
+        "business_area 'Engineering' is not lowercase; will normalize downstream",
+        "business_area 'HR' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1826LNEq9xLzOaIzoqpHogAblxwlziVN8",
+      "name": "Access Control Policy 2026",
+      "document_type": "policy",
+      "business_area": [
+        "Compliance",
+        "Engineering",
+        "HR"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX": {
+      "file": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-18ecL6YAyJ65zjJup-OXI5tjjDNEjihrX",
+      "name": "EARLY PAY One pager.pdf",
+      "document_type": "product_brief",
+      "business_area": [
+        "product",
+        "sales"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-18svTApTmRiSstFbfp2yoM_VA5kRnhtHY": {
+      "file": "file-18svTApTmRiSstFbfp2yoM_VA5kRnhtHY.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Compliance' is not lowercase; will normalize downstream",
+        "business_area 'Engineering' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-18svTApTmRiSstFbfp2yoM_VA5kRnhtHY",
+      "name": "Authentication and Identification Procedures 2026",
+      "document_type": "policy_procedure",
+      "business_area": [
+        "Compliance",
+        "Engineering"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0": {
+      "file": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-19TjKHLO0eCe0mwL8lNUSeUAgFvoTFjZ_IzjbBCooGM0",
+      "name": "Competitive Comparison",
+      "document_type": "competitive-comparison-sheet",
+      "business_area": [
+        "sales",
+        "channel"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1CxQCKgbOEWcXuvOpmqrfvgjAyQiT0kxvww8rtlCp3u8": {
+      "file": "file-1CxQCKgbOEWcXuvOpmqrfvgjAyQiT0kxvww8rtlCp3u8.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'deprecated'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1CxQCKgbOEWcXuvOpmqrfvgjAyQiT0kxvww8rtlCp3u8",
+      "name": "Buyer Personas - copy",
+      "document_type": "sales-enablement",
+      "business_area": [
+        "sales",
+        "marketing"
+      ],
+      "doc_status": "deprecated",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1DRjIEx89LLbZa2J1ORNk25-ckBq0iHPCpgKODgEN-os": {
+      "file": "file-1DRjIEx89LLbZa2J1ORNk25-ckBq0iHPCpgKODgEN-os.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1DRjIEx89LLbZa2J1ORNk25-ckBq0iHPCpgKODgEN-os",
+      "name": "Dispute Process",
+      "document_type": "process-document",
+      "business_area": [
+        "operations",
+        "customer-success"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1DvzSHmC3DkKnMNyfi0TQ67WDyjlfuYwScxLGJfepw3E": {
+      "file": "file-1DvzSHmC3DkKnMNyfi0TQ67WDyjlfuYwScxLGJfepw3E.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1DvzSHmC3DkKnMNyfi0TQ67WDyjlfuYwScxLGJfepw3E",
+      "name": "Enevo: March 2020 Processing Fees",
+      "document_type": "spreadsheet",
+      "business_area": [
+        "finance",
+        "operations"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1Ef7l5RYeEJeNpXBDzdavZMrEpsnGari3zYKjO9vOUwM": {
+      "file": "file-1Ef7l5RYeEJeNpXBDzdavZMrEpsnGari3zYKjO9vOUwM.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "business_area 'Product' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1Ef7l5RYeEJeNpXBDzdavZMrEpsnGari3zYKjO9vOUwM",
+      "name": "ALOHA Collection Addendum",
+      "document_type": "contract_addendum",
+      "business_area": [
+        "Sales",
+        "Product"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1EqtElt5XDOSK0e26pxM5kCmAvmtZUk9GDyiOlSnjBT8": {
+      "file": "file-1EqtElt5XDOSK0e26pxM5kCmAvmtZUk9GDyiOlSnjBT8.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-1EqtElt5XDOSK0e26pxM5kCmAvmtZUk9GDyiOlSnjBT8",
+      "name": "CARO | Paystand Network Adoption and Results",
+      "document_type": "presentation",
+      "business_area": [
+        "sales",
+        "product"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1FDG-sMVYucfvmNwtqOjk0_GNOWMJNIj6M5YjAQ0n59k": {
+      "file": "file-1FDG-sMVYucfvmNwtqOjk0_GNOWMJNIj6M5YjAQ0n59k.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1FDG-sMVYucfvmNwtqOjk0_GNOWMJNIj6M5YjAQ0n59k",
+      "name": "BigBattery - ValuePrompter",
+      "document_type": "sales-enablement",
+      "business_area": [
+        "sales"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c": {
+      "file": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Integrations' is not lowercase; will normalize downstream",
+        "business_area 'Channel' is not lowercase; will normalize downstream",
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1Fb0kSEzpFRMBVrQx7m7Jico9sUYUoNWDBpwUaM88s0c",
+      "name": "AblePay Integration",
+      "document_type": "integration_tracking",
+      "business_area": [
+        "Integrations",
+        "Channel"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHU0hG": {
+      "file": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHU0hG.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "source.url is empty",
+        "source.last_modified is null",
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHU0hG",
+      "name": "Development Methodology 2025",
+      "document_type": "unknown",
+      "business_area": [
+        "unknown"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "unknown",
+      "ready_for_clustering": false
+    },
+    "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9": {
+      "file": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-1H-oxV_O-ZD3WPfOAX_4aSs8_7jCHUUq9",
+      "name": "Development Methodology 2025.pdf",
+      "document_type": "policy",
+      "business_area": [
+        "engineering"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1HGs8EblAB9Ik-BKPc5TNh6BIacPWA0L3YDERzLbK68o": {
+      "file": "file-1HGs8EblAB9Ik-BKPc5TNh6BIacPWA0L3YDERzLbK68o.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-1HGs8EblAB9Ik-BKPc5TNh6BIacPWA0L3YDERzLbK68o",
+      "name": "Copy for genspark",
+      "document_type": "demo_deck",
+      "business_area": [
+        "sales",
+        "product"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4": {
+      "file": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBEk4",
+      "name": "Direct / Click to Pay.pdf",
+      "document_type": "product_brief",
+      "business_area": [
+        "product",
+        "sales"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBH3d": {
+      "file": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBH3d.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "source.url is empty",
+        "source.last_modified is null",
+        "source.mime_type is 'unknown'",
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1Hqf9aodp_Z0o5wfIu8aQhPoUvX5WBH3d",
+      "name": "Direct / Click to Pay",
+      "document_type": "unknown",
+      "business_area": [
+        "unknown"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "unknown",
+      "ready_for_clustering": false
+    },
+    "file-1I0PPSZqx1NEQRrroxspvhDcoE2CQHT0T5y": {
+      "file": "file-1I0PPSZqx1NEQRrroxspvhDcoE2CQHT0T5y.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1I0PPSZqx1NEQRrroxspvhDcoE2CQHT0T5y",
+      "name": "duplicate accounts",
+      "document_type": "spreadsheet",
+      "business_area": [
+        "operations",
+        "engineering"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "unknown",
+      "ready_for_clustering": true
+    },
+    "file-1I0PPSZqx1NEQRrroxspvhDcoE2CQHT0T5yRJfOMGplU": {
+      "file": "file-1I0PPSZqx1NEQRrroxspvhDcoE2CQHT0T5yRJfOMGplU.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "business_area 'Operations' is not lowercase; will normalize downstream",
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1I0PPSZqx1NEQRrroxspvhDcoE2CQHT0T5yRJfOMGplU",
+      "name": "duplicate accounts",
+      "document_type": "sheet",
+      "business_area": [
+        "Operations"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A": {
+      "file": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "business_area 'Product' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1IMoXkOUZpefOl7VIUs-lZmLKDue2pWExAE1qFVprT1A",
+      "name": "1.99 one pager",
+      "document_type": "sales_collateral",
+      "business_area": [
+        "Sales",
+        "Product"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1IVATnGqJwxn6P5JtQS73JqzkFE-H8T9F": {
+      "file": "file-1IVATnGqJwxn6P5JtQS73JqzkFE-H8T9F.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1IVATnGqJwxn6P5JtQS73JqzkFE-H8T9F",
+      "name": "Choozle Case Study.pdf",
+      "document_type": "case_study",
+      "business_area": [
+        "sales",
+        "marketing"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1J-pvo_IWiUG-MpxSBd7vZ5Ssk4cLW_u0aWCEC0oCurQ": {
+      "file": "file-1J-pvo_IWiUG-MpxSBd7vZ5Ssk4cLW_u0aWCEC0oCurQ.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "unknown business_area 'Board'",
+        "unknown business_area 'CEO'",
+        "no entities extracted across any category",
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1J-pvo_IWiUG-MpxSBd7vZ5Ssk4cLW_u0aWCEC0oCurQ",
+      "name": "All Hands - Column chart 2",
+      "document_type": "data_chart",
+      "business_area": [
+        "Board",
+        "CEO"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c": {
+      "file": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-1KMOuo5Txt9DRB2FxGBKdOeHr2DHTCih1kG-dXBRuD3c",
+      "name": "Champion Deck Paystand for NetSuite",
+      "document_type": "sales_deck",
+      "business_area": [
+        "sales",
+        "product"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1L_3Jdi7MR4gIPOLqQSG9UzD3BZidFgy8": {
+      "file": "file-1L_3Jdi7MR4gIPOLqQSG9UzD3BZidFgy8.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-1L_3Jdi7MR4gIPOLqQSG9UzD3BZidFgy8",
+      "name": "Demo Acumatica Short",
+      "document_type": "video",
+      "business_area": [
+        "product",
+        "sales",
+        "integrations"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U": {
+      "file": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1Lfy6gGjD248mY62458OV_6q5TqDJkzBAEUChzhoOR_U",
+      "name": "Chad Reiser - Paystand Channel Partner Program",
+      "document_type": "strategy-proposal",
+      "business_area": [
+        "sales",
+        "channel"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1MRCclPPycXMUHzhzP6JBUIRJ65w3J321Ki": {
+      "file": "file-1MRCclPPycXMUHzhzP6JBUIRJ65w3J321Ki.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "no facts extracted"
+      ],
+      "leaf_id": "file-1MRCclPPycXMUHzhzP6JBUIRJ65w3J321Ki",
+      "name": "DirectionsNA 2024 - Paystand V2",
+      "document_type": "presentation",
+      "business_area": [
+        "sales",
+        "product"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1MRCclPPycXMUHzhzP6JBUIRJ65w3J321KiAjiCkWUJs": {
+      "file": "file-1MRCclPPycXMUHzhzP6JBUIRJ65w3J321KiAjiCkWUJs.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "unknown business_area 'Sales/Marketing'",
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1MRCclPPycXMUHzhzP6JBUIRJ65w3J321KiAjiCkWUJs",
+      "name": "DirectionsNA 2024 - Paystand V2",
+      "document_type": "deferred",
+      "business_area": [
+        "Sales/Marketing"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8": {
+      "file": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1MRpqhlrw3JhDQF-vmqwwxwd7Q-2dbN07chSq_aFOMg8",
+      "name": "Channels Priorities",
+      "document_type": "strategy_document",
+      "business_area": [
+        "sales",
+        "channel",
+        "partnerships"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8": {
+      "file": "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "business_area 'Product' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1MbxiZ1YiZ-OXI8G1Zlt61Y9lheiDOrAjPW-iS8bEmu8",
+      "name": "1.99 one pager (Doc)",
+      "document_type": "sales_collateral",
+      "business_area": [
+        "Sales",
+        "Product"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1MprBwrQvAS8SpHGB6TmHTQiiU2vjDsqQWEhh2P9XEIo": {
+      "file": "file-1MprBwrQvAS8SpHGB6TmHTQiiU2vjDsqQWEhh2P9XEIo.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "no entities extracted across any category",
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1MprBwrQvAS8SpHGB6TmHTQiiU2vjDsqQWEhh2P9XEIo",
+      "name": "Closed Lost Reasons One Pager",
+      "document_type": "one-pager",
+      "business_area": [
+        "sales"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1N5ekVw8BDR_5k1w2IltF2BuvivCYQQBujE": {
+      "file": "file-1N5ekVw8BDR_5k1w2IltF2BuvivCYQQBujE.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "no facts extracted"
+      ],
+      "leaf_id": "file-1N5ekVw8BDR_5k1w2IltF2BuvivCYQQBujE",
+      "name": "DEMO SuiteWorld 2023",
+      "document_type": "presentation",
+      "business_area": [
+        "sales",
+        "product"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1N5ekVw8BDR_5k1w2IltF2BuvivCYQQBujE3NChhkylg": {
+      "file": "file-1N5ekVw8BDR_5k1w2IltF2BuvivCYQQBujE3NChhkylg.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "unknown business_area 'Sales/Marketing'",
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1N5ekVw8BDR_5k1w2IltF2BuvivCYQQBujE3NChhkylg",
+      "name": "DEMO SuiteWorld 2023",
+      "document_type": "deferred",
+      "business_area": [
+        "Sales/Marketing"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1NM-1W30BDn0Nafy5AneczVhihbkvryDNsD": {
+      "file": "file-1NM-1W30BDn0Nafy5AneczVhihbkvryDNsD.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "no facts extracted"
+      ],
+      "leaf_id": "file-1NM-1W30BDn0Nafy5AneczVhihbkvryDNsD",
+      "name": "Entering 2025: New Product Features",
+      "document_type": "presentation",
+      "business_area": [
+        "product"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1NM-1W30BDn0Nafy5AneczVhihbkvryDNsD7P3wg4WUU": {
+      "file": "file-1NM-1W30BDn0Nafy5AneczVhihbkvryDNsD7P3wg4WUU.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "business_area 'Product' is not lowercase; will normalize downstream",
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1NM-1W30BDn0Nafy5AneczVhihbkvryDNsD7P3wg4WUU",
+      "name": "Entering 2025: New Product Features",
+      "document_type": "slides",
+      "business_area": [
+        "Product"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1NgNF9EgJ5SZ462HaVgp40YU0L7l-s9AmtQ9CeJM4eks": {
+      "file": "file-1NgNF9EgJ5SZ462HaVgp40YU0L7l-s9AmtQ9CeJM4eks.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Channel' is not lowercase; will normalize downstream",
+        "no entities extracted across any category",
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1NgNF9EgJ5SZ462HaVgp40YU0L7l-s9AmtQ9CeJM4eks",
+      "name": "#12 - Partner Onboarding Process",
+      "document_type": "process_document",
+      "business_area": [
+        "Channel"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1OtRkAZO2XkKlbeU_TWoA7QGmcTNP2lqCks": {
+      "file": "file-1OtRkAZO2XkKlbeU_TWoA7QGmcTNP2lqCks.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "no facts extracted"
+      ],
+      "leaf_id": "file-1OtRkAZO2XkKlbeU_TWoA7QGmcTNP2lqCks",
+      "name": "Draft - Reseller Agreement",
+      "document_type": "legal_agreement",
+      "business_area": [
+        "legal",
+        "channel"
+      ],
+      "doc_status": "draft",
+      "sensitivity": "confidential",
+      "ready_for_clustering": false
+    },
+    "file-1OtRkAZO2XkKlbeU_TWoA7QGmcTNP2lqCksRAVAQXT9M": {
+      "file": "file-1OtRkAZO2XkKlbeU_TWoA7QGmcTNP2lqCksRAVAQXT9M.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "unknown business_area 'Legal/Channel'",
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1OtRkAZO2XkKlbeU_TWoA7QGmcTNP2lqCksRAVAQXT9M",
+      "name": "Draft - Reseller Agreement",
+      "document_type": "doc",
+      "business_area": [
+        "Legal/Channel"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk": {
+      "file": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1P6O9e1FkWqm1J6_qc-vT5aKqhv5DSjVNHi8SBS6_MTk",
+      "name": "Caam's Sage GTM Working Sheet",
+      "document_type": "sales_pipeline",
+      "business_area": [
+        "sales",
+        "partnerships",
+        "channel"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1PShBhePbKff1R0lB_2KrPC3oScl06vS3S9": {
+      "file": "file-1PShBhePbKff1R0lB_2KrPC3oScl06vS3S9.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "no facts extracted"
+      ],
+      "leaf_id": "file-1PShBhePbKff1R0lB_2KrPC3oScl06vS3S9",
+      "name": "DEMO NetSuite SuiteWorld 2024",
+      "document_type": "presentation",
+      "business_area": [
+        "sales",
+        "product"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1PShBhePbKff1R0lB_2KrPC3oScl06vS3S9fU5YxzBKM": {
+      "file": "file-1PShBhePbKff1R0lB_2KrPC3oScl06vS3S9fU5YxzBKM.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "unknown business_area 'Sales/Marketing'",
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1PShBhePbKff1R0lB_2KrPC3oScl06vS3S9fU5YxzBKM",
+      "name": "DEMO NetSuite SuiteWorld 2024",
+      "document_type": "slides",
+      "business_area": [
+        "Sales/Marketing"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1T0Lg-g23sjwGN8TyQR8QZdzpCKVS0MC6": {
+      "file": "file-1T0Lg-g23sjwGN8TyQR8QZdzpCKVS0MC6.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1T0Lg-g23sjwGN8TyQR8QZdzpCKVS0MC6",
+      "name": "Elenteny Imports Case Study.pdf",
+      "document_type": "case_study",
+      "business_area": [
+        "sales",
+        "marketing"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1UjdicgwrrUX90l5TUOieUg67MgkJogDy": {
+      "file": "file-1UjdicgwrrUX90l5TUOieUg67MgkJogDy.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "no facts extracted",
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1UjdicgwrrUX90l5TUOieUg67MgkJogDy",
+      "name": "Business Central Short Demo",
+      "document_type": "demo_video",
+      "business_area": [
+        "sales",
+        "product"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU": {
+      "file": "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1VXQRbMxDB--8w0cWvCEqZQPZ8ZuG3J9DMsGcPOYmmDU",
+      "name": "Channel's Partner Meetings",
+      "document_type": "sales_pipeline",
+      "business_area": [
+        "sales",
+        "channel",
+        "partnerships"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1VeJoZOjGe2WxGYmrXDZiw8NRzIbRmZsNwRk5yunk6G0": {
+      "file": "file-1VeJoZOjGe2WxGYmrXDZiw8NRzIbRmZsNwRk5yunk6G0.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "business_area 'Product' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1VeJoZOjGe2WxGYmrXDZiw8NRzIbRmZsNwRk5yunk6G0",
+      "name": "1.99 one pager (alt)",
+      "document_type": "sales_collateral",
+      "business_area": [
+        "Sales",
+        "Product"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1WrmKZH0eKG7xgKz89WBUis7y8HZmw_sjnkJsEXkGNpQ": {
+      "file": "file-1WrmKZH0eKG7xgKz89WBUis7y8HZmw_sjnkJsEXkGNpQ.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1WrmKZH0eKG7xgKz89WBUis7y8HZmw_sjnkJsEXkGNpQ",
+      "name": "Cocoa Productions Integration",
+      "document_type": "integration-tracking-sheet",
+      "business_area": [
+        "integrations",
+        "channel"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE": {
+      "file": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1Ww5Br8p6Gv_tZdxeJGKnKlUN48EbF-XJ4Au8k08r1lE",
+      "name": "Channel Sales Enablement Library",
+      "document_type": "spreadsheet",
+      "business_area": [
+        "sales",
+        "marketing",
+        "channel"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1XEQVvwun667jQ_56Zwe-P8WZPjpbCq1QEuayo2EIY94": {
+      "file": "file-1XEQVvwun667jQ_56Zwe-P8WZPjpbCq1QEuayo2EIY94.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1XEQVvwun667jQ_56Zwe-P8WZPjpbCq1QEuayo2EIY94",
+      "name": "Choozle: March 2020 Processing Fees",
+      "document_type": "spreadsheet",
+      "business_area": [
+        "finance",
+        "operations"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1XPeaWZl7KTVSqmrLamUdPQ9yGebJrjVTj7MUhGc3cOU": {
+      "file": "file-1XPeaWZl7KTVSqmrLamUdPQ9yGebJrjVTj7MUhGc3cOU.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "business_area 'Marketing' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1XPeaWZl7KTVSqmrLamUdPQ9yGebJrjVTj7MUhGc3cOU",
+      "name": "BDR UTM Codes for Upcoming Webinars",
+      "document_type": "reference_data",
+      "business_area": [
+        "Sales",
+        "Marketing"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0": {
+      "file": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1Y4LuUSrEUjVv57pOiTVgcFvnb8RiZiDyvs53XNFwVh0",
+      "name": "Business Fitness-Paystand account planning",
+      "document_type": "sales_pipeline",
+      "business_area": [
+        "sales",
+        "partnerships"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy": {
+      "file": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1YKNcH2A2ft4_fbmv58-p_YmtS32dJdOy",
+      "name": "Battlecard NAV & GP",
+      "document_type": "battlecard",
+      "business_area": [
+        "Sales"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1Yz4fpL6fy6mBV2jH6cLykaYmwxzZaw33MjV2Epd4_wk": {
+      "file": "file-1Yz4fpL6fy6mBV2jH6cLykaYmwxzZaw33MjV2Epd4_wk.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1Yz4fpL6fy6mBV2jH6cLykaYmwxzZaw33MjV2Epd4_wk",
+      "name": "Conservis - Sage Win Wire",
+      "document_type": "win-wire",
+      "business_area": [
+        "sales",
+        "channel"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW": {
+      "file": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "business_area 'Product' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1Yz_c1WaLz6YWhiIQIua0GoKNONy9OfwW",
+      "name": "1.99 one pager.pdf",
+      "document_type": "sales_collateral",
+      "business_area": [
+        "Sales",
+        "Product"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1ZWnNNCs8MIkbJEGGd2k2vxWGelNEb3hTtjBtXCov_u8": {
+      "file": "file-1ZWnNNCs8MIkbJEGGd2k2vxWGelNEb3hTtjBtXCov_u8.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1ZWnNNCs8MIkbJEGGd2k2vxWGelNEb3hTtjBtXCov_u8",
+      "name": "BattleCard Story Test",
+      "document_type": "battlecard",
+      "business_area": [
+        "Sales"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1ZvcVqubawO8QP4q_OvFU2tYb6IXCzZOUTrTft5R3TiI": {
+      "file": "file-1ZvcVqubawO8QP4q_OvFU2tYb6IXCzZOUTrTft5R3TiI.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1ZvcVqubawO8QP4q_OvFU2tYb6IXCzZOUTrTft5R3TiI",
+      "name": "CrowdForce Integration",
+      "document_type": "integration-tracking-sheet",
+      "business_area": [
+        "integrations"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1bBVTDaxdwAbhnBl4t6GRK6UFxkJrIuS3M7ZB_Kw_Vc4": {
+      "file": "file-1bBVTDaxdwAbhnBl4t6GRK6UFxkJrIuS3M7ZB_Kw_Vc4.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1bBVTDaxdwAbhnBl4t6GRK6UFxkJrIuS3M7ZB_Kw_Vc4",
+      "name": "Company Phone Greeting",
+      "document_type": "reference",
+      "business_area": [
+        "operations"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1bHAepqceL0baLXDO77IxOiv9NsRtvsLh_UjLZex2my4": {
+      "file": "file-1bHAepqceL0baLXDO77IxOiv9NsRtvsLh_UjLZex2my4.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Channel' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1bHAepqceL0baLXDO77IxOiv9NsRtvsLh_UjLZex2my4",
+      "name": "Anderson Frank GTM plan",
+      "document_type": "gtm_plan",
+      "business_area": [
+        "Channel"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1btET2_Ee5XHOGDC67OYhGBQYDPkSTK7Pu9JcDZIG_Is": {
+      "file": "file-1btET2_Ee5XHOGDC67OYhGBQYDPkSTK7Pu9JcDZIG_Is.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "unknown business_area 'Board'",
+        "unknown business_area 'CEO'",
+        "no entities extracted across any category",
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1btET2_Ee5XHOGDC67OYhGBQYDPkSTK7Pu9JcDZIG_Is",
+      "name": "All Hands - Column chart 1",
+      "document_type": "data_chart",
+      "business_area": [
+        "Board",
+        "CEO"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1cyJeHdO9ccRixgG9EV7xORHhJy-67gsG": {
+      "file": "file-1cyJeHdO9ccRixgG9EV7xORHhJy-67gsG.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "no facts extracted",
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1cyJeHdO9ccRixgG9EV7xORHhJy-67gsG",
+      "name": "Channel Intacct Transform Leads 2021.xlsx",
+      "document_type": "spreadsheet",
+      "business_area": [
+        "sales",
+        "channels"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": false
+    },
+    "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8": {
+      "file": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1dlrHrp-xKoQ7U1LQnoAlIpk1DStOIlWOFtkGWt63xm8",
+      "name": "Ben's Sage Intacct rev2",
+      "document_type": "sales_deck",
+      "business_area": [
+        "sales",
+        "channels",
+        "partnerships"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA": {
+      "file": "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-1eDMoDPcrFvv8eaZWJxwrLTyxMyVvKLZaBmSxVPAHPdA",
+      "name": "Buyer Personas",
+      "document_type": "sales-enablement",
+      "business_area": [
+        "sales",
+        "marketing"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1ewMwmucSewnhpm0A8hpbYxl5xyLiD9rYFbTn9T2V38w": {
+      "file": "file-1ewMwmucSewnhpm0A8hpbYxl5xyLiD9rYFbTn9T2V38w.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1ewMwmucSewnhpm0A8hpbYxl5xyLiD9rYFbTn9T2V38w",
+      "name": "Crossbeam_2022-06-30_1120AM",
+      "document_type": "partnership-data-sheet",
+      "business_area": [
+        "channel",
+        "sales"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1fc1w3rDTOVY7MiTzeMU7ZoYFergnbWNbs1kFgwYyOns": {
+      "file": "file-1fc1w3rDTOVY7MiTzeMU7ZoYFergnbWNbs1kFgwYyOns.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1fc1w3rDTOVY7MiTzeMU7ZoYFergnbWNbs1kFgwYyOns",
+      "name": "Billing Questions for Solutions & CS",
+      "document_type": "operational_tracker",
+      "business_area": [
+        "finance",
+        "customer_success"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1gQbfaa8GTNkQEoSK-G4b6gtI8riN6ES-KbrfJMDlV0Y": {
+      "file": "file-1gQbfaa8GTNkQEoSK-G4b6gtI8riN6ES-KbrfJMDlV0Y.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "unknown business_area 'Board'",
+        "unknown business_area 'CEO'",
+        "no entities extracted across any category",
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1gQbfaa8GTNkQEoSK-G4b6gtI8riN6ES-KbrfJMDlV0Y",
+      "name": "All Hands - Column chart 3",
+      "document_type": "data_chart",
+      "business_area": [
+        "Board",
+        "CEO"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1h0foyIDilXNsQnMPKMKOJdwdjFadA8_A6HKNJiMOVY0": {
+      "file": "file-1h0foyIDilXNsQnMPKMKOJdwdjFadA8_A6HKNJiMOVY0.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "business_area 'Product' is not lowercase; will normalize downstream",
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1h0foyIDilXNsQnMPKMKOJdwdjFadA8_A6HKNJiMOVY0",
+      "name": "Acumatica 2024 - Product Overview",
+      "document_type": "presentation",
+      "business_area": [
+        "Sales",
+        "Product"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1hOgctvzQPjpsD2yvfv6uhOTCYpcAKZTMTSMjPg_q4Jc": {
+      "file": "file-1hOgctvzQPjpsD2yvfv6uhOTCYpcAKZTMTSMjPg_q4Jc.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1hOgctvzQPjpsD2yvfv6uhOTCYpcAKZTMTSMjPg_q4Jc",
+      "name": "Engineering Q1 2021 Strategic Memo",
+      "document_type": "internal_memo",
+      "business_area": [
+        "engineering"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU": {
+      "file": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1hX2iQsG9Yz8R3gwNzAICKnrkClFykIA4xTPx0fUX0xU",
+      "name": "Ben's Sage Intacct-Rev4",
+      "document_type": "partner_playbook",
+      "business_area": [
+        "sales",
+        "channels",
+        "partnerships"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1iUtI5_vlEeYHxqaDgccoyqMAedbBglBMs1lOqj433xg": {
+      "file": "file-1iUtI5_vlEeYHxqaDgccoyqMAedbBglBMs1lOqj433xg.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1iUtI5_vlEeYHxqaDgccoyqMAedbBglBMs1lOqj433xg",
+      "name": "Channel Playbook - Sage",
+      "document_type": "partner_playbook",
+      "business_area": [
+        "sales",
+        "channels",
+        "partnerships"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw": {
+      "file": "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1iv2p4hzcCZWSluy8MFaXhnwg_g5FeIkOBcEWPscFfgw",
+      "name": "Direct Webinar Marketing Emails",
+      "document_type": "marketing-email",
+      "business_area": [
+        "marketing"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1kyHuFINwHuKhHmLTEc8powfVaxugVutY7k5NgQj_ZnM": {
+      "file": "file-1kyHuFINwHuKhHmLTEc8powfVaxugVutY7k5NgQj_ZnM.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "unknown business_area 'company_culture'"
+      ],
+      "leaf_id": "file-1kyHuFINwHuKhHmLTEc8powfVaxugVutY7k5NgQj_ZnM",
+      "name": "Culture Handbook 2025",
+      "document_type": "company_handbook",
+      "business_area": [
+        "hr",
+        "company_culture"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1lJiIcBN0mVw_3ULmu4V2LUg-AV_1IIJ3OWsEOT-iEp4": {
+      "file": "file-1lJiIcBN0mVw_3ULmu4V2LUg-AV_1IIJ3OWsEOT-iEp4.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Channel' is not lowercase; will normalize downstream",
+        "business_area 'Sales' is not lowercase; will normalize downstream",
+        "no entities extracted across any category",
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1lJiIcBN0mVw_3ULmu4V2LUg-AV_1IIJ3OWsEOT-iEp4",
+      "name": "#1-Strategic Partner GTM plan",
+      "document_type": "process_document",
+      "business_area": [
+        "Channel",
+        "Sales"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1m4RqcNkHIPtVVDBWB0HniC1FhucYJxJt92f16g9GaUQ": {
+      "file": "file-1m4RqcNkHIPtVVDBWB0HniC1FhucYJxJt92f16g9GaUQ.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'deprecated'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1m4RqcNkHIPtVVDBWB0HniC1FhucYJxJt92f16g9GaUQ",
+      "name": "Early Access Program",
+      "document_type": "spreadsheet",
+      "business_area": [
+        "product",
+        "sales"
+      ],
+      "doc_status": "deprecated",
+      "sensitivity": "pii-risk",
+      "ready_for_clustering": true
+    },
+    "file-1neiqe9B9l2UQ7TWIQy_feTAcT41kxsf21RBpmBmPVoc": {
+      "file": "file-1neiqe9B9l2UQ7TWIQy_feTAcT41kxsf21RBpmBmPVoc.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1neiqe9B9l2UQ7TWIQy_feTAcT41kxsf21RBpmBmPVoc",
+      "name": "Customers and Payment Interface",
+      "document_type": "customer-tracking-sheet",
+      "business_area": [
+        "product",
+        "engineering"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1ngna44UGQJ7XZpgR9c8GhmBwuFhDhmnUgN": {
+      "file": "file-1ngna44UGQJ7XZpgR9c8GhmBwuFhDhmnUgN.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1ngna44UGQJ7XZpgR9c8GhmBwuFhDhmnUgN",
+      "name": "DG - Understanding SQL Creation",
+      "document_type": "presentation",
+      "business_area": [
+        "engineering"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "confidential",
+      "ready_for_clustering": false
+    },
+    "file-1ngna44UGQJ7XZpgR9c8GhmBwuFhDhmnUgNcs-HDV1z4": {
+      "file": "file-1ngna44UGQJ7XZpgR9c8GhmBwuFhDhmnUgNcs-HDV1z4.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "business_area 'Engineering' is not lowercase; will normalize downstream",
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1ngna44UGQJ7XZpgR9c8GhmBwuFhDhmnUgNcs-HDV1z4",
+      "name": "DG - Understanding SQL Creation",
+      "document_type": "slides",
+      "business_area": [
+        "Engineering"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    },
+    "file-1oUiCRnOAcnU4KnFCxRmK2tE3V5rhLQ7Y9nVM-mNnR34": {
+      "file": "file-1oUiCRnOAcnU4KnFCxRmK2tE3V5rhLQ7Y9nVM-mNnR34.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'deprecated'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1oUiCRnOAcnU4KnFCxRmK2tE3V5rhLQ7Y9nVM-mNnR34",
+      "name": "BETA > customer.subscription",
+      "document_type": "api_documentation",
+      "business_area": [
+        "product",
+        "engineering"
+      ],
+      "doc_status": "deprecated",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1rCQBa9qKb1PYmJbEmmb52nFNDrIKZ2uT": {
+      "file": "file-1rCQBa9qKb1PYmJbEmmb52nFNDrIKZ2uT.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Product' is not lowercase; will normalize downstream",
+        "business_area 'Sales' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1rCQBa9qKb1PYmJbEmmb52nFNDrIKZ2uT",
+      "name": "BC ICP vertical",
+      "document_type": "icp_profile",
+      "business_area": [
+        "Product",
+        "Sales"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1rN12enDgtBXmTROmUW3_-OPdGP4M6uztXCdQ2K3QTH8": {
+      "file": "file-1rN12enDgtBXmTROmUW3_-OPdGP4M6uztXCdQ2K3QTH8.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1rN12enDgtBXmTROmUW3_-OPdGP4M6uztXCdQ2K3QTH8",
+      "name": "Channel Intacct Partner Meetings - Caam",
+      "document_type": "sales_pipeline",
+      "business_area": [
+        "sales",
+        "channel",
+        "partnerships"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4": {
+      "file": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1rws8ZH1vbA7Cjl6147x6HljISlbvPrD93f3-BBwXnw4",
+      "name": "Enriched Partner List",
+      "document_type": "spreadsheet",
+      "business_area": [
+        "sales",
+        "channel",
+        "partnerships"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1sK-XJXoF_TOyIRPF3p6UwxWs-lsoMwjUuMhOaOG2kpg": {
+      "file": "file-1sK-XJXoF_TOyIRPF3p6UwxWs-lsoMwjUuMhOaOG2kpg.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1sK-XJXoF_TOyIRPF3p6UwxWs-lsoMwjUuMhOaOG2kpg",
+      "name": "Dead/Unknown Exhaustion",
+      "document_type": "sales-prospect-list",
+      "business_area": [
+        "sales"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1uJAjAUp_M8AQheJl7AnJh9NZ19Ry-VE_tL0m137SeMk": {
+      "file": "file-1uJAjAUp_M8AQheJl7AnJh9NZ19Ry-VE_tL0m137SeMk.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1uJAjAUp_M8AQheJl7AnJh9NZ19Ry-VE_tL0m137SeMk",
+      "name": "Case Studies Quick Reference",
+      "document_type": "case_study_compilation",
+      "business_area": [
+        "sales",
+        "marketing"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A": {
+      "file": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-1v7AjBJ5cfmqiDlivEI4v-P7bg17u4Nu8Pya1_cglI2A",
+      "name": "Case Studies & EBooks Log",
+      "document_type": "content_inventory",
+      "business_area": [
+        "marketing"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv": {
+      "file": "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-1vkxyYm5wftz_Bzj0FiCeXWFQEJ1K-ZPv",
+      "name": "CAD EFT - Product Battlecard (1).pdf",
+      "document_type": "battlecard",
+      "business_area": [
+        "sales",
+        "product"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS": {
+      "file": "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Sales' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1wJe84TJ3BfUqhcJLacf2orxcUCdiyMuS",
+      "name": "ACUMATICA ICP vertical",
+      "document_type": "sales_collateral",
+      "business_area": [
+        "Sales"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1wLKI78eVk86LA-nex4bpc2EfVI9MQNXKFAXy8v5NI40": {
+      "file": "file-1wLKI78eVk86LA-nex4bpc2EfVI9MQNXKFAXy8v5NI40.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Marketing' is not lowercase; will normalize downstream"
+      ],
+      "leaf_id": "file-1wLKI78eVk86LA-nex4bpc2EfVI9MQNXKFAXy8v5NI40",
+      "name": "AB Testing",
+      "document_type": "presentation",
+      "business_area": [
+        "Marketing"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46": {
+      "file": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-1wQtWS0LvDyKEwJNxWyCvxqilcemKWW46",
+      "name": "DWSi BC One Pager.pdf",
+      "document_type": "product_brief",
+      "business_area": [
+        "product",
+        "sales"
+      ],
+      "doc_status": "current",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1wyA_QkO3Ou1qUW3bdXU7pJ0AwHWbOxUJ": {
+      "file": "file-1wyA_QkO3Ou1qUW3bdXU7pJ0AwHWbOxUJ.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "business_area 'Channel' is not lowercase; will normalize downstream",
+        "business_area 'Marketing' is not lowercase; will normalize downstream",
+        "classification.status is 'deprecated'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1wyA_QkO3Ou1qUW3bdXU7pJ0AwHWbOxUJ",
+      "name": "2018 Partner Branding Guidelines",
+      "document_type": "brand_guidelines",
+      "business_area": [
+        "Channel",
+        "Marketing"
+      ],
+      "doc_status": "deprecated",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1y4kTQiYUGtPCF3Pul7HSjBdVHOoADSAs1bd-HHPn_7k": {
+      "file": "file-1y4kTQiYUGtPCF3Pul7HSjBdVHOoADSAs1bd-HHPn_7k.json",
+      "status": "ok",
+      "errors": [],
+      "warnings": [],
+      "leaf_id": "file-1y4kTQiYUGtPCF3Pul7HSjBdVHOoADSAs1bd-HHPn_7k",
+      "name": "DataBlend Addendum — Multiple Currencies",
+      "document_type": "addendum",
+      "business_area": [
+        "product",
+        "sales"
+      ],
+      "doc_status": "current",
+      "sensitivity": "confidential",
+      "ready_for_clustering": true
+    },
+    "file-1ylklnTLUv_cvrIvlbUmxX0ONCFS744vBBvRwOzMpFlg": {
+      "file": "file-1ylklnTLUv_cvrIvlbUmxX0ONCFS744vBBvRwOzMpFlg.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "classification.status is 'stale'; may be filtered or down-weighted later"
+      ],
+      "leaf_id": "file-1ylklnTLUv_cvrIvlbUmxX0ONCFS744vBBvRwOzMpFlg",
+      "name": "Dynamics integration research",
+      "document_type": "spreadsheet",
+      "business_area": [
+        "engineering",
+        "product"
+      ],
+      "doc_status": "stale",
+      "sensitivity": "normal",
+      "ready_for_clustering": true
+    },
+    "file-1z-qd6fWdp66S0eiOYudHbXq76CwSHcBmEk": {
+      "file": "file-1z-qd6fWdp66S0eiOYudHbXq76CwSHcBmEk.json",
+      "status": "ok_with_warnings",
+      "errors": [],
+      "warnings": [
+        "no facts extracted"
+      ],
+      "leaf_id": "file-1z-qd6fWdp66S0eiOYudHbXq76CwSHcBmEk",
+      "name": "DriveWealth Integration",
+      "document_type": "spreadsheet",
+      "business_area": [
+        "engineering",
+        "product"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "unknown",
+      "ready_for_clustering": true
+    },
+    "file-1z-qd6fWdp66S0eiOYudHbXq76CwSHcBmEkuMd7B-8Os": {
+      "file": "file-1z-qd6fWdp66S0eiOYudHbXq76CwSHcBmEkuMd7B-8Os.json",
+      "status": "skipped_not_ready",
+      "errors": [],
+      "warnings": [
+        "business_area 'Integrations' is not lowercase; will normalize downstream",
+        "no facts extracted",
+        "no entities extracted across any category"
+      ],
+      "leaf_id": "file-1z-qd6fWdp66S0eiOYudHbXq76CwSHcBmEkuMd7B-8Os",
+      "name": "DriveWealth Integration",
+      "document_type": "sheet",
+      "business_area": [
+        "Integrations"
+      ],
+      "doc_status": "unknown",
+      "sensitivity": "normal",
+      "ready_for_clustering": false
+    }
+  }
+}
