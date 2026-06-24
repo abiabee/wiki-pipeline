@@ -37,6 +37,14 @@ SECTIONS_ASSIGNMENT_FILE = OUTPUT_DIR / "sections_assignment.json"
 SECTIONS_INDEX_FILE = OUTPUT_DIR / "sections_index.json"
 STEP5_SUMMARY_FILE = OUTPUT_DIR / "step5_summary.json"
 
+# Step 6 outputs (cluster discovery + node tree) — `nodes.json` is the flat
+# dictionary of every node's rendering contract, `section_trees.json` is the
+# per-section traversal index that step 7 walks to build pages.
+TREE_DIR = OUTPUT_DIR / "tree"
+NODES_FILE = TREE_DIR / "nodes.json"
+SECTION_TREES_FILE = TREE_DIR / "section_trees.json"
+STEP6_SUMMARY_FILE = TREE_DIR / "step6_summary.json"
+
 
 # Base rule-edge weights, before IDF normalization. These are the *ceiling*
 # for each rule type; the actual emitted weight is `base * idf(group_size)`.
@@ -283,3 +291,44 @@ SECTIONS_MIN_SCORE: int = 2
 
 # Stamped into the assignment file so callers can detect taxonomy drift.
 SECTIONS_TAXONOMY_VERSION: str = "v1"
+
+
+# ---------------------------------------------------------------------------
+# Step 6 — cluster discovery (entity decomposition + graph clustering)
+#
+# These thresholds shape the node tree. They are intentionally lenient at
+# the current corpus size (85 leaves) and should be raised once the full set
+# is loaded.
+# ---------------------------------------------------------------------------
+
+# An entity (e.g. "NetSuite") only earns its own entity_group node if at
+# least this many leaves in the section reference it. User decision #9.
+MIN_ENTITY_GROUP_SIZE: int = 3
+
+# A graph cluster (run on leaves left over after entity decomposition) only
+# becomes a node if it has at least this many members. Smaller clusters get
+# absorbed into the section's "Other" orphan bucket.
+MIN_GRAPH_CLUSTER_SIZE: int = 3
+
+# Once a node's recursive leaf count exceeds this, we try to split it one
+# level deeper. User decision #11.
+RECURSION_LEAF_THRESHOLD: int = 10
+
+# Hard cap on tree depth below the section root. depth=0 is the section
+# root, so MAX_NODE_DEPTH=3 means at most three levels of nodes under it.
+MAX_NODE_DEPTH: int = 3
+
+# Distance threshold for sklearn's AgglomerativeClustering. Distance is
+# `1 - combined_weight` between two leaves; missing edges are treated as
+# distance=1.0. A threshold of 0.5 effectively says "cluster while pairs
+# share combined_weight ≥ 0.5". Raise to make clusters tighter.
+GRAPH_CLUSTER_DISTANCE_THRESHOLD: float = 0.5
+
+# Cohesion bands feed the node's `quality.confidence`. Cohesion is the mean
+# combined_weight across all intra-node edges; nodes with no internal edges
+# (singleton or fully-disconnected) get confidence="low".
+COHESION_HIGH_THRESHOLD: float = 0.65
+COHESION_LOW_THRESHOLD: float = 0.45
+
+# Stamped onto every node so step 7 can detect tree-shape drift.
+TREE_TAXONOMY_VERSION: str = "v1"
