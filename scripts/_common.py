@@ -30,6 +30,7 @@ RELATED_NEIGHBORS_FILE = GRAPH_DIR / "related_neighbors.json"
 ENTITY_INDEX_FILE = GRAPH_DIR / "entity_index.json"
 STEP4_SUMMARY_FILE = GRAPH_DIR / "step4_summary.json"
 GRAPH_HTML = OUTPUT_DIR / "graph.html"
+SECTION_TREE_HTML = OUTPUT_DIR / "section_tree.html"
 
 # Step 5 outputs (section assignment) — these are classification artifacts,
 # not graph artifacts, so they live at the top of output/.
