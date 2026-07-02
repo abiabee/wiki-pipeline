@@ -545,14 +545,12 @@ def main(argv: List[str] | None = None) -> int:
         )
     )
     leaf_buckets = _build_leaf_buckets(entity_index)
-    # If we're including skipped leaves, only the ones that actually made it
-    # into entity_index will have anything to score on. The rest fall through
-    # to a meta assignment (and that's probably noise we don't want to emit).
-    leaves_to_assign = sorted(candidate_ids & set(leaf_buckets.keys()))
-    if not leaves_to_assign:
-        # Fall back: even a leaf with no buckets in the index can be assigned
-        # to meta. That mostly matters when we *aren't* including skipped.
-        leaves_to_assign = sorted(candidate_ids)
+    # Always iterate over every candidate. Leaves with no entity_index entry
+    # (e.g. business_area='unknown' and empty entity arrays) still deserve a
+    # section — the `_assign_leaf` fallback will route them to `meta` instead
+    # of dropping them. Previously this used the intersection, which silently
+    # lost the "no signal at all" cohort.
+    leaves_to_assign = sorted(candidate_ids)
 
     console.print(
         f"Assigning sections for [bold]{len(leaves_to_assign)}[/] leaves "

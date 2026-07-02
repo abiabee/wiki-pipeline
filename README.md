@@ -342,3 +342,52 @@ Every cluster is reproducible.
 ```
 
 That is the scalable foundation.
+
+
+## Manifest structure
+```json
+{
+  "generated_at": "2026-06-22T22:00:00Z",
+  "stats": {
+    "leaves": 112,
+    "clusters": 24,
+    "pages": 31,
+    "sections": 20
+  },
+  "sections": {
+    "topics/sales": {
+      "label": "Sales",
+      "page_ids": ["page-topics-sales-pricing-models-roi", "..."],
+      "leaf_count": 18
+    },
+    "entities/customers": { "...": "..." }
+  },
+  "pages": {
+    "page-topics-sales-pricing-models-roi": {
+      "section": "topics/sales",
+      "title": "Pricing Models & ROI",
+      "slug": "pricing-models-roi",
+      "html_path": "topics/sales/pricing-models-roi.html",
+      "leaf_ids": ["file-abc", "file-def"],
+      "cluster_ids": ["cluster-topics-sales-pricing-roi"],
+      "related_pages": ["page-topics-payments-behavioral-incentives"],
+      "primary_entities": {
+        "customers": ["sage"],
+        "products": ["paystand"]
+      },
+      "confidence": "high"
+    }
+  },
+  "leaves": {
+    "file-0Bx_...": {
+      "page_ids": ["page-topics-compliance-cstpa"],
+      "section_ids": ["topics/compliance", "topics/security"],
+      "drive_file_id": "0Bx_...",
+      "drive_url": "https://drive.google.com/..."
+    }
+  }
+}
+```
+
+
+

@@ -192,12 +192,33 @@ SECTION_ALIAS: dict[str, str] = {
     "risk": "topics/compliance",
     "legal": "topics/legal",
     "hr": "topics/hr",
+    "people": "topics/hr",
     "company-culture": "topics/hr",
     "customer-success": "topics/customer-success",
     "board": "topics/company",
+    "board-ceo": "topics/company",
     "ceo": "topics/company",
     "payments": "topics/payments",
     "reconciliation": "topics/reconciliation",
+    # Compound business_area slugs the agent occasionally emits. Route to
+    # the dominant department; secondary signal still raises that section's
+    # score via the entity buckets.
+    "channel-sales": "topics/channel",
+    "sales-mkt": "topics/sales",
+    "product-marketing": "topics/marketing",
+    "compliance-hr": "topics/compliance",
+    "signed-partner-agreements": "topics/channel",
+    "design": "topics/product",
+    # Audience-driven hints. `internal` / `external` are intentionally
+    # excluded — they're too broad to drive a section.
+    "partners": "topics/channel",
+    "partner": "topics/channel",
+    "prospects": "topics/sales",
+    "bdr": "topics/sales",
+    "sales-team": "topics/sales",
+    "sales-reps": "topics/sales",
+    "channel-team": "topics/channel",
+    "channel-managers": "topics/channel",
 }
 
 # Each entity type (key = entity_index bucket name) triggers a section
