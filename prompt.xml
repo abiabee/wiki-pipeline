@@ -1,0 +1,50 @@
+<context>
+    Hi again, I can't remember where we left off.
+
+    But I ended up with these HTMLS that I used to personally evaluate the aggrupation techniques.
+
+    I can't remember if we still need to build the manifest or not. 
+
+    <graph_quality>
+        I inspected the graph and there are still some things I'm not fully happy with the way the tree aggrupated some files.
+        I would like to be able to change this in the future, like selecting the features that are most important for the company.
+
+        These are refinements, so I want to keep moving forward in a way that applying these aggrupation refinements automatically updates the wiki.
+
+        <bad_quality>
+            I don't like some things on the current graph, for example
+            <example1>
+                Under _Product_ there are two nodes called the same, "Slides (Product)", although they have different docs, so maybe for cases like these the "subsection HTML" we'll build with the agent as node subsection introduction HTML will help to distinguish, so it may not be bad.
+            </example1>
+            <example2>
+                Another thing I don't like is the grouping by People. For example under product, "People (Products)", it lists a lot of random names. Ok, I thought they may have been the authors, or the name must be mentioned quite a lot on the docs, but opening the file, the names are not there, so I can't tell why was this created this way.
+                Ah I see why, they share label <shared_label>    "type": "shared_person",
+                    "shared_label": "Sam Smith",
+                    "shared_slug": "sam-smith",
+                    "weight": 0.3524,
+                    "group_size": 6</shared_label> and in the doc, <label_doc>  "entities": {
+                        "customers": ["DesignWorks", "Agricultural Wholesaler (unnamed)"],
+                        "competitors": [],
+                        "products": ["Paystand SuiteApp", "Smart Lockbox"],
+                        "features": ["Bank Network", "Convenience Fees & Incentives", "Autopay", "Virtual Terminal", "Automatic Collections", "Smart Lockbox", "Cash Application", "Deposit Reconciliation", "Branded Payment Experience"],
+                        "erps": ["NetSuite"],
+                        "partners": [],
+                        "people": ["Max Jech", "Phoebe Price", "Sam Smith"],
+                        "policies": []
+                      },</label_doc>
+                      Yeah, so it was clearly grouped by people, something the agent added, maybe we could remove importance to people instead
+            </example2>
+            <example3>
+                Also maybe under company leadership, well, it's not bad but there's no mention of any people at all, like maybe it would make more sense to have the things people made under here, although it's really not an issue because here there are only the documents that are related to Leadership, so this is FINE.
+            </example3>
+            <example4>
+                Under ERPs we have both: "Sage Intacct" and "Sage", we should do that of merging the slugs, something we should really do
+            </example4>
+        </bad_quality>
+        <suggested_improvements>
+            <improvement1>
+                We can work on the example4, improving the slugs so that "Sage Intacct" == "Sage" == "Intacct"
+            </improvement1>
+        </suggested_improvements>
+    </graph_quality>
+</context>

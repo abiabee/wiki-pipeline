@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23T16:57:16+00:00",
+  "generated_at": "2026-06-29T04:23:46+00:00",
   "leaves": {
-    "participating": 85,
-    "embeddable": 85,
+    "participating": 433,
+    "embeddable": 433,
     "skipped_with_entities": 0,
     "skipped_dropped_empty": []
   },
@@ -25,86 +25,86 @@
     }
   },
   "edge_counts": {
-    "similarity": 509,
-    "rule_total": 1676,
+    "similarity": 2705,
+    "rule_total": 38672,
     "rule_by_type": {
-      "shared_business_area": 711,
-      "shared_customer": 39,
-      "shared_product": 142,
-      "shared_feature": 184,
-      "shared_person": 49,
-      "shared_partner": 65,
-      "shared_policy": 1,
-      "shared_erp": 472,
-      "shared_competitor": 13
+      "shared_policy": 24,
+      "shared_business_area": 26718,
+      "shared_product": 1627,
+      "shared_erp": 8315,
+      "shared_customer": 87,
+      "shared_feature": 1195,
+      "shared_person": 325,
+      "shared_partner": 160,
+      "shared_competitor": 221
     },
-    "rule_skipped_low_weight": 1176,
-    "combined_pairs": 1251,
-    "rescued_pairs": 742
+    "rule_skipped_low_weight": 0,
+    "combined_pairs": 29632,
+    "rescued_pairs": 26927
   },
   "entity_specificity": {
     "business_area": {
-      "groups_with_pairs": 17,
+      "groups_with_pairs": 28,
       "min_group": 2,
-      "median_group": 5,
-      "max_group": 49,
-      "total_unique_values": 19
+      "median_group": 4,
+      "max_group": 147,
+      "total_unique_values": 49
     },
     "competitors": {
-      "groups_with_pairs": 4,
-      "min_group": 2,
-      "median_group": 2,
-      "max_group": 5,
-      "total_unique_values": 10
-    },
-    "customers": {
-      "groups_with_pairs": 12,
-      "min_group": 2,
-      "median_group": 2,
-      "max_group": 5,
-      "total_unique_values": 123
-    },
-    "erps": {
-      "groups_with_pairs": 11,
-      "min_group": 2,
-      "median_group": 5,
-      "max_group": 22,
-      "total_unique_values": 26
-    },
-    "features": {
-      "groups_with_pairs": 53,
-      "min_group": 2,
-      "median_group": 2,
-      "max_group": 9,
-      "total_unique_values": 225
-    },
-    "partners": {
-      "groups_with_pairs": 31,
-      "min_group": 2,
-      "median_group": 2,
-      "max_group": 5,
-      "total_unique_values": 112
-    },
-    "people": {
-      "groups_with_pairs": 24,
-      "min_group": 2,
-      "median_group": 2,
-      "max_group": 5,
-      "total_unique_values": 99
-    },
-    "policies": {
-      "groups_with_pairs": 1,
-      "min_group": 2,
-      "median_group": 2,
-      "max_group": 2,
-      "total_unique_values": 33
-    },
-    "products": {
       "groups_with_pairs": 14,
       "min_group": 2,
       "median_group": 3,
-      "max_group": 11,
-      "total_unique_values": 82
+      "max_group": 16,
+      "total_unique_values": 34
+    },
+    "customers": {
+      "groups_with_pairs": 23,
+      "min_group": 2,
+      "median_group": 2,
+      "max_group": 8,
+      "total_unique_values": 209
+    },
+    "erps": {
+      "groups_with_pairs": 20,
+      "min_group": 2,
+      "median_group": 4,
+      "max_group": 117,
+      "total_unique_values": 31
+    },
+    "features": {
+      "groups_with_pairs": 99,
+      "min_group": 2,
+      "median_group": 3,
+      "max_group": 25,
+      "total_unique_values": 387
+    },
+    "partners": {
+      "groups_with_pairs": 58,
+      "min_group": 2,
+      "median_group": 2,
+      "max_group": 7,
+      "total_unique_values": 154
+    },
+    "people": {
+      "groups_with_pairs": 45,
+      "min_group": 2,
+      "median_group": 2,
+      "max_group": 15,
+      "total_unique_values": 169
+    },
+    "policies": {
+      "groups_with_pairs": 15,
+      "min_group": 2,
+      "median_group": 2,
+      "max_group": 4,
+      "total_unique_values": 109
+    },
+    "products": {
+      "groups_with_pairs": 28,
+      "min_group": 2,
+      "median_group": 4,
+      "max_group": 48,
+      "total_unique_values": 131
     }
   },
   "potential_alias_collisions": [
@@ -114,29 +114,29 @@
       "label_variants": [
         {
           "label": "channel",
-          "count": 13
+          "count": 142
         },
         {
           "label": "Channel",
           "count": 5
         }
       ],
-      "leaf_count": 18
+      "leaf_count": 147
     },
     {
       "entity_type": "business_area",
       "slug": "compliance",
       "label_variants": [
         {
-          "label": "Compliance",
-          "count": 4
+          "label": "compliance",
+          "count": 21
         },
         {
-          "label": "compliance",
-          "count": 2
+          "label": "Compliance",
+          "count": 4
         }
       ],
-      "leaf_count": 6
+      "leaf_count": 25
     },
     {
       "entity_type": "business_area",
@@ -144,14 +144,14 @@
       "label_variants": [
         {
           "label": "customer-success",
-          "count": 1
+          "count": 2
         },
         {
           "label": "customer_success",
           "count": 1
         }
       ],
-      "leaf_count": 2
+      "leaf_count": 3
     },
     {
       "entity_type": "business_area",
@@ -159,29 +159,29 @@
       "label_variants": [
         {
           "label": "engineering",
-          "count": 9
+          "count": 15
         },
         {
           "label": "Engineering",
           "count": 4
         }
       ],
-      "leaf_count": 13
+      "leaf_count": 19
     },
     {
       "entity_type": "business_area",
       "slug": "hr",
       "label_variants": [
         {
-          "label": "HR",
-          "count": 2
+          "label": "hr",
+          "count": 6
         },
         {
-          "label": "hr",
-          "count": 1
+          "label": "HR",
+          "count": 2
         }
       ],
-      "leaf_count": 3
+      "leaf_count": 8
     },
     {
       "entity_type": "business_area",
@@ -189,14 +189,14 @@
       "label_variants": [
         {
           "label": "integrations",
-          "count": 3
+          "count": 7
         },
         {
           "label": "Integrations",
           "count": 2
         }
       ],
-      "leaf_count": 5
+      "leaf_count": 9
     },
     {
       "entity_type": "business_area",
@@ -204,14 +204,14 @@
       "label_variants": [
         {
           "label": "legal",
-          "count": 2
+          "count": 9
         },
         {
           "label": "Legal",
           "count": 1
         }
       ],
-      "leaf_count": 3
+      "leaf_count": 10
     },
     {
       "entity_type": "business_area",
@@ -219,14 +219,14 @@
       "label_variants": [
         {
           "label": "marketing",
-          "count": 10
+          "count": 34
         },
         {
           "label": "Marketing",
           "count": 3
         }
       ],
-      "leaf_count": 13
+      "leaf_count": 37
     },
     {
       "entity_type": "business_area",
@@ -234,14 +234,14 @@
       "label_variants": [
         {
           "label": "product",
-          "count": 16
+          "count": 77
         },
         {
           "label": "Product",
           "count": 9
         }
       ],
-      "leaf_count": 25
+      "leaf_count": 86
     },
     {
       "entity_type": "business_area",
@@ -249,14 +249,134 @@
       "label_variants": [
         {
           "label": "sales",
-          "count": 34
+          "count": 120
         },
         {
           "label": "Sales",
           "count": 15
         }
       ],
-      "leaf_count": 49
+      "leaf_count": 135
+    },
+    {
+      "entity_type": "competitors",
+      "slug": "billtrust",
+      "label_variants": [
+        {
+          "label": "BillTrust",
+          "count": 3
+        },
+        {
+          "label": "Billtrust",
+          "count": 1
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "competitors",
+      "slug": "versapay",
+      "label_variants": [
+        {
+          "label": "Versapay",
+          "count": 8
+        },
+        {
+          "label": "VersaPay",
+          "count": 3
+        }
+      ],
+      "leaf_count": 11
+    },
+    {
+      "entity_type": "erps",
+      "slug": "netsuite",
+      "label_variants": [
+        {
+          "label": "NetSuite",
+          "count": 105
+        },
+        {
+          "label": "netsuite",
+          "count": 12
+        }
+      ],
+      "leaf_count": 117
+    },
+    {
+      "entity_type": "erps",
+      "slug": "sage",
+      "label_variants": [
+        {
+          "label": "Sage",
+          "count": 3
+        },
+        {
+          "label": "sage",
+          "count": 1
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "erps",
+      "slug": "sage-intacct",
+      "label_variants": [
+        {
+          "label": "Sage Intacct",
+          "count": 39
+        },
+        {
+          "label": "sage intacct",
+          "count": 1
+        }
+      ],
+      "leaf_count": 40
+    },
+    {
+      "entity_type": "features",
+      "slug": "ach",
+      "label_variants": [
+        {
+          "label": "ACH",
+          "count": 7
+        },
+        {
+          "label": "ach",
+          "count": 1
+        }
+      ],
+      "leaf_count": 8
+    },
+    {
+      "entity_type": "features",
+      "slug": "ach-payments",
+      "label_variants": [
+        {
+          "label": "ach-payments",
+          "count": 1
+        },
+        {
+          "label": "ACH payments",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "ar-automation",
+      "label_variants": [
+        {
+          "label": "AR automation",
+          "count": 7
+        },
+        {
+          "label": "AR Automation",
+          "count": 1
+        }
+      ],
+      "leaf_count": 8
     },
     {
       "entity_type": "features",
@@ -275,6 +395,36 @@
     },
     {
       "entity_type": "features",
+      "slug": "auto-pay",
+      "label_variants": [
+        {
+          "label": "Auto-pay",
+          "count": 2
+        },
+        {
+          "label": "auto-pay",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "features",
+      "slug": "auto-reconciliation",
+      "label_variants": [
+        {
+          "label": "auto-reconciliation",
+          "count": 8
+        },
+        {
+          "label": "Auto-reconciliation",
+          "count": 1
+        }
+      ],
+      "leaf_count": 9
+    },
+    {
+      "entity_type": "features",
       "slug": "automated-reconciliation",
       "label_variants": [
         {
@@ -290,22 +440,176 @@
     },
     {
       "entity_type": "features",
+      "slug": "automatic-reconciliation",
+      "label_variants": [
+        {
+          "label": "automatic reconciliation",
+          "count": 3
+        },
+        {
+          "label": "Automatic Reconciliation",
+          "count": 1
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "features",
       "slug": "autopay",
       "label_variants": [
         {
           "label": "autopay",
-          "count": 6
+          "count": 18
         },
         {
           "label": "Autopay",
-          "count": 2
+          "count": 6
         },
         {
           "label": "AutoPay",
           "count": 1
         }
       ],
-      "leaf_count": 9
+      "leaf_count": 25
+    },
+    {
+      "entity_type": "features",
+      "slug": "bank-network",
+      "label_variants": [
+        {
+          "label": "bank network",
+          "count": 9
+        },
+        {
+          "label": "bank-network",
+          "count": 3
+        },
+        {
+          "label": "Bank Network",
+          "count": 1
+        }
+      ],
+      "leaf_count": 13
+    },
+    {
+      "entity_type": "features",
+      "slug": "branded-billing-portal",
+      "label_variants": [
+        {
+          "label": "branded billing portal",
+          "count": 2
+        },
+        {
+          "label": "branded-billing-portal",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "features",
+      "slug": "branded-payment-portal",
+      "label_variants": [
+        {
+          "label": "Branded Payment Portal",
+          "count": 1
+        },
+        {
+          "label": "branded payment portal",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "cash-application",
+      "label_variants": [
+        {
+          "label": "Cash Application",
+          "count": 4
+        },
+        {
+          "label": "cash application",
+          "count": 1
+        }
+      ],
+      "leaf_count": 5
+    },
+    {
+      "entity_type": "features",
+      "slug": "check-scanning",
+      "label_variants": [
+        {
+          "label": "Check Scanning",
+          "count": 1
+        },
+        {
+          "label": "check scanning",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "click-to-pay",
+      "label_variants": [
+        {
+          "label": "Click-to-pay",
+          "count": 1
+        },
+        {
+          "label": "click-to-pay",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "click-to-pay-links",
+      "label_variants": [
+        {
+          "label": "click-to-pay links",
+          "count": 1
+        },
+        {
+          "label": "Click-to-pay links",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "collection-plans",
+      "label_variants": [
+        {
+          "label": "Collection Plans",
+          "count": 1
+        },
+        {
+          "label": "collection plans",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "collections",
+      "label_variants": [
+        {
+          "label": "collections",
+          "count": 2
+        },
+        {
+          "label": "Collections",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
     },
     {
       "entity_type": "features",
@@ -343,18 +647,33 @@
       "label_variants": [
         {
           "label": "convenience fees",
-          "count": 3
+          "count": 6
         },
         {
           "label": "Convenience Fees",
-          "count": 1
+          "count": 4
         },
         {
           "label": "Convenience fees",
-          "count": 1
+          "count": 2
         }
       ],
-      "leaf_count": 5
+      "leaf_count": 12
+    },
+    {
+      "entity_type": "features",
+      "slug": "credit-card-processing",
+      "label_variants": [
+        {
+          "label": "credit-card-processing",
+          "count": 2
+        },
+        {
+          "label": "credit card processing",
+          "count": 2
+        }
+      ],
+      "leaf_count": 4
     },
     {
       "entity_type": "features",
@@ -373,6 +692,96 @@
     },
     {
       "entity_type": "features",
+      "slug": "custom-fields",
+      "label_variants": [
+        {
+          "label": "custom fields",
+          "count": 2
+        },
+        {
+          "label": "Custom fields",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "features",
+      "slug": "customer-portal",
+      "label_variants": [
+        {
+          "label": "Customer Portal",
+          "count": 1
+        },
+        {
+          "label": "Customer portal",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "deposit-reconciliation",
+      "label_variants": [
+        {
+          "label": "Deposit Reconciliation",
+          "count": 3
+        },
+        {
+          "label": "deposit reconciliation",
+          "count": 3
+        }
+      ],
+      "leaf_count": 6
+    },
+    {
+      "entity_type": "features",
+      "slug": "deposit-reports",
+      "label_variants": [
+        {
+          "label": "deposit reports",
+          "count": 6
+        },
+        {
+          "label": "deposit-reports",
+          "count": 1
+        }
+      ],
+      "leaf_count": 7
+    },
+    {
+      "entity_type": "features",
+      "slug": "dispute-processing",
+      "label_variants": [
+        {
+          "label": "dispute processing",
+          "count": 1
+        },
+        {
+          "label": "Dispute Processing",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "echeck",
+      "label_variants": [
+        {
+          "label": "eCheck",
+          "count": 4
+        },
+        {
+          "label": "echeck",
+          "count": 1
+        }
+      ],
+      "leaf_count": 5
+    },
+    {
+      "entity_type": "features",
       "slug": "email-branding",
       "label_variants": [
         {
@@ -382,20 +791,73 @@
         {
           "label": "Email Branding",
           "count": 1
+        },
+        {
+          "label": "Email branding",
+          "count": 1
         }
       ],
-      "leaf_count": 2
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "features",
+      "slug": "erp-integration",
+      "label_variants": [
+        {
+          "label": "ERP integration",
+          "count": 4
+        },
+        {
+          "label": "erp-integration",
+          "count": 1
+        }
+      ],
+      "leaf_count": 5
     },
     {
       "entity_type": "features",
       "slug": "fund-on-file",
       "label_variants": [
         {
+          "label": "Fund-on-File",
+          "count": 1
+        },
+        {
           "label": "Fund on File",
           "count": 1
         },
         {
           "label": "fund on file",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "features",
+      "slug": "funds-on-file",
+      "label_variants": [
+        {
+          "label": "funds on file",
+          "count": 2
+        },
+        {
+          "label": "Funds on file",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "features",
+      "slug": "multi-currency",
+      "label_variants": [
+        {
+          "label": "Multi-Currency",
+          "count": 1
+        },
+        {
+          "label": "multi-currency",
           "count": 1
         }
       ],
@@ -410,11 +872,15 @@
           "count": 1
         },
         {
+          "label": "One Click Checkout",
+          "count": 1
+        },
+        {
           "label": "One-click Checkout",
           "count": 1
         }
       ],
-      "leaf_count": 2
+      "leaf_count": 3
     },
     {
       "entity_type": "features",
@@ -422,14 +888,29 @@
       "label_variants": [
         {
           "label": "partial payments",
-          "count": 3
+          "count": 5
         },
         {
           "label": "Partial Payments",
           "count": 1
         }
       ],
-      "leaf_count": 4
+      "leaf_count": 6
+    },
+    {
+      "entity_type": "features",
+      "slug": "pay-now-button",
+      "label_variants": [
+        {
+          "label": "Pay Now button",
+          "count": 2
+        },
+        {
+          "label": "pay-now-button",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
     },
     {
       "entity_type": "features",
@@ -448,8 +929,61 @@
     },
     {
       "entity_type": "features",
+      "slug": "payer-history",
+      "label_variants": [
+        {
+          "label": "payer history",
+          "count": 1
+        },
+        {
+          "label": "Payer history",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "payer-incentives",
+      "label_variants": [
+        {
+          "label": "Payer Incentives",
+          "count": 1
+        },
+        {
+          "label": "payer incentives",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "payer-pays-fees",
+      "label_variants": [
+        {
+          "label": "Payer-Pays-Fees",
+          "count": 2
+        },
+        {
+          "label": "payer-pays-fees",
+          "count": 1
+        },
+        {
+          "label": "Payer Pays Fees",
+          "count": 1
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "features",
       "slug": "payment-links",
       "label_variants": [
+        {
+          "label": "Payment Links",
+          "count": 1
+        },
         {
           "label": "payment links",
           "count": 1
@@ -459,7 +993,41 @@
           "count": 1
         }
       ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "features",
+      "slug": "payment-portal",
+      "label_variants": [
+        {
+          "label": "payment portal",
+          "count": 1
+        },
+        {
+          "label": "Payment Portal",
+          "count": 1
+        }
+      ],
       "leaf_count": 2
+    },
+    {
+      "entity_type": "features",
+      "slug": "real-time-reconciliation",
+      "label_variants": [
+        {
+          "label": "real-time reconciliation",
+          "count": 7
+        },
+        {
+          "label": "Real-time reconciliation",
+          "count": 1
+        },
+        {
+          "label": "real-time-reconciliation",
+          "count": 1
+        }
+      ],
+      "leaf_count": 9
     },
     {
       "entity_type": "features",
@@ -471,25 +1039,44 @@
         },
         {
           "label": "Scheduled payments",
+          "count": 2
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "features",
+      "slug": "smart-lockbox",
+      "label_variants": [
+        {
+          "label": "SMART Lockbox",
+          "count": 3
+        },
+        {
+          "label": "Smart Lockbox",
+          "count": 2
+        },
+        {
+          "label": "smart lockbox",
           "count": 1
         }
       ],
-      "leaf_count": 3
+      "leaf_count": 6
     },
     {
       "entity_type": "features",
       "slug": "tokenization",
       "label_variants": [
         {
-          "label": "Tokenization",
-          "count": 1
+          "label": "tokenization",
+          "count": 6
         },
         {
-          "label": "tokenization",
+          "label": "Tokenization",
           "count": 1
         }
       ],
-      "leaf_count": 2
+      "leaf_count": 7
     },
     {
       "entity_type": "features",
@@ -497,14 +1084,89 @@
       "label_variants": [
         {
           "label": "virtual terminal",
-          "count": 5
+          "count": 16
         },
         {
           "label": "Virtual Terminal",
-          "count": 3
+          "count": 5
         },
         {
           "label": "Virtual terminal",
+          "count": 1
+        }
+      ],
+      "leaf_count": 22
+    },
+    {
+      "entity_type": "partners",
+      "slug": "dotsolved",
+      "label_variants": [
+        {
+          "label": "DotSolved",
+          "count": 1
+        },
+        {
+          "label": "dotSolved",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "partners",
+      "slug": "myers-holum",
+      "label_variants": [
+        {
+          "label": "Myers Holum",
+          "count": 2
+        },
+        {
+          "label": "Myers-Holum",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "partners",
+      "slug": "vested-group",
+      "label_variants": [
+        {
+          "label": "Vested Group",
+          "count": 3
+        },
+        {
+          "label": "vested group",
+          "count": 1
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "people",
+      "slug": "ben-bassett",
+      "label_variants": [
+        {
+          "label": "Ben Bassett",
+          "count": 12
+        },
+        {
+          "label": "ben bassett",
+          "count": 3
+        }
+      ],
+      "leaf_count": 15
+    },
+    {
+      "entity_type": "people",
+      "slug": "dan-fortner",
+      "label_variants": [
+        {
+          "label": "Dan Fortner",
+          "count": 8
+        },
+        {
+          "label": "dan fortner",
           "count": 1
         }
       ],
@@ -512,14 +1174,134 @@
     },
     {
       "entity_type": "people",
+      "slug": "phoebe-price",
+      "label_variants": [
+        {
+          "label": "Phoebe Price",
+          "count": 5
+        },
+        {
+          "label": "phoebe price",
+          "count": 1
+        }
+      ],
+      "leaf_count": 6
+    },
+    {
+      "entity_type": "people",
+      "slug": "sam-smith",
+      "label_variants": [
+        {
+          "label": "Sam Smith",
+          "count": 5
+        },
+        {
+          "label": "sam smith",
+          "count": 1
+        }
+      ],
+      "leaf_count": 6
+    },
+    {
+      "entity_type": "people",
       "slug": "victor-meza",
       "label_variants": [
         {
           "label": "Victor Meza",
-          "count": 2
+          "count": 5
         },
         {
           "label": "Víctor Meza",
+          "count": 1
+        }
+      ],
+      "leaf_count": 6
+    },
+    {
+      "entity_type": "policies",
+      "slug": "gold-partner-tier",
+      "label_variants": [
+        {
+          "label": "Gold partner tier",
+          "count": 1
+        },
+        {
+          "label": "gold-partner-tier",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "policies",
+      "slug": "incident-response-policy",
+      "label_variants": [
+        {
+          "label": "Incident Response Policy",
+          "count": 3
+        },
+        {
+          "label": "incident-response-policy",
+          "count": 1
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "policies",
+      "slug": "mutual-nda",
+      "label_variants": [
+        {
+          "label": "Mutual NDA",
+          "count": 2
+        },
+        {
+          "label": "mutual-nda",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "policies",
+      "slug": "pci-dss",
+      "label_variants": [
+        {
+          "label": "pci-dss",
+          "count": 1
+        },
+        {
+          "label": "PCI DSS",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "policies",
+      "slug": "pci-level-1",
+      "label_variants": [
+        {
+          "label": "pci-level-1",
+          "count": 1
+        },
+        {
+          "label": "PCI Level 1",
+          "count": 1
+        }
+      ],
+      "leaf_count": 2
+    },
+    {
+      "entity_type": "policies",
+      "slug": "silver-partner-tier",
+      "label_variants": [
+        {
+          "label": "silver-partner-tier",
+          "count": 2
+        },
+        {
+          "label": "Silver partner tier",
           "count": 1
         }
       ],
@@ -527,18 +1309,82 @@
     },
     {
       "entity_type": "products",
+      "slug": "bank-network",
+      "label_variants": [
+        {
+          "label": "bank-network",
+          "count": 2
+        },
+        {
+          "label": "Bank Network",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "products",
+      "slug": "billing-portal",
+      "label_variants": [
+        {
+          "label": "billing-portal",
+          "count": 2
+        },
+        {
+          "label": "Billing Portal",
+          "count": 2
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "products",
+      "slug": "early-pay",
+      "label_variants": [
+        {
+          "label": "Early Pay",
+          "count": 2
+        },
+        {
+          "label": "early-pay",
+          "count": 1
+        }
+      ],
+      "leaf_count": 3
+    },
+    {
+      "entity_type": "products",
+      "slug": "paystand",
+      "label_variants": [
+        {
+          "label": "Paystand",
+          "count": 43
+        },
+        {
+          "label": "paystand",
+          "count": 4
+        },
+        {
+          "label": "PayStand",
+          "count": 1
+        }
+      ],
+      "leaf_count": 48
+    },
+    {
+      "entity_type": "products",
       "slug": "paystand-api",
       "label_variants": [
         {
           "label": "Paystand API",
-          "count": 5
+          "count": 6
         },
         {
           "label": "PayStand API",
           "count": 1
         }
       ],
-      "leaf_count": 6
+      "leaf_count": 7
     },
     {
       "entity_type": "products",
@@ -557,18 +1403,108 @@
     },
     {
       "entity_type": "products",
+      "slug": "paystand-payments-as-a-service",
+      "label_variants": [
+        {
+          "label": "Paystand Payments-as-a-Service",
+          "count": 3
+        },
+        {
+          "label": "PayStand Payments-as-a-Service",
+          "count": 1
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "products",
+      "slug": "paystand-platform",
+      "label_variants": [
+        {
+          "label": "Paystand Platform",
+          "count": 3
+        },
+        {
+          "label": "paystand-platform",
+          "count": 1
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "products",
+      "slug": "paystand-suiteapp",
+      "label_variants": [
+        {
+          "label": "Paystand SuiteApp",
+          "count": 14
+        },
+        {
+          "label": "paystand suiteapp",
+          "count": 1
+        }
+      ],
+      "leaf_count": 15
+    },
+    {
+      "entity_type": "products",
+      "slug": "smart-check",
+      "label_variants": [
+        {
+          "label": "smart-check",
+          "count": 2
+        },
+        {
+          "label": "Smart Check",
+          "count": 2
+        }
+      ],
+      "leaf_count": 4
+    },
+    {
+      "entity_type": "products",
       "slug": "smart-lockbox",
       "label_variants": [
         {
           "label": "Smart Lockbox",
-          "count": 2
+          "count": 18
         },
         {
           "label": "SMART Lockbox",
           "count": 1
         }
       ],
-      "leaf_count": 3
+      "leaf_count": 19
+    },
+    {
+      "entity_type": "products",
+      "slug": "suiteapp",
+      "label_variants": [
+        {
+          "label": "SuiteApp",
+          "count": 4
+        },
+        {
+          "label": "suiteapp",
+          "count": 2
+        }
+      ],
+      "leaf_count": 6
+    },
+    {
+      "entity_type": "products",
+      "slug": "virtual-terminal",
+      "label_variants": [
+        {
+          "label": "Virtual Terminal",
+          "count": 4
+        },
+        {
+          "label": "virtual-terminal",
+          "count": 1
+        }
+      ],
+      "leaf_count": 5
     }
   ]
 }
